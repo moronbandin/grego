@@ -1,0 +1,1250 @@
+- [A](#a)
+- [B](#b)
+- [Γ](#γ)
+- [Δ](#δ)
+- [E](#e)
+- [Ζ](#ζ)
+- [Η](#η)
+- [Θ](#θ)
+- [Ι](#ι)
+- [Κ](#κ)
+- [Λ](#λ)
+- [Μ](#μ)
+- [Ν](#ν)
+- [Ξ](#ξ)
+- [Ο](#ο)
+- [Π](#π)
+- [Ρ](#ρ)
+- [Σ](#σ)
+- [Τ](#τ)
+- [Υ](#υ)
+- [Φ](#φ)
+- [Χ](#χ)
+- [Ψ](#ψ)
+- [Ω](#ω)
+
+
+# A
+- **ἀγαθός ή όν**: bueno, noble, valiente  
+- **ἄγαλμα -τος τό**: ornamento, gloria, sacrificio  
+- **ἀγανακτέω**: indignarse, enfadarse  
+- **ἀγαπάω**: acoger, ser hospitalario; también ἀγαπάζω  
+- **ἀγγέλλω**: anunciar, llevar un mensaje  
+- **ἄγγελος ὁ ἡ**: mensajero, enviado  
+- **ἄγευστος ον**: que no prueba, que no degusta  
+- **ἀγήραντος ον**: sin vejez, imperecedero; también ἀγήραος  
+- **ἀγνοέω**: ignorar, desconocer  
+- **ἀγορά ἡ**: asamblea, mercado; también ἀγορή, ἄγυρις  
+- **ἀγοράζω**: comerciar, comprar en el mercado  
+- **ἄγριος α ον**: salvaje, rudo  
+- **ἄγροικος ον**: rústico, campesino  
+- **ἀγρός ὁ**: campo, tierra de labor  
+- **ἄγω**: guiar, llevar, conducir  
+- **ἀγών -ῶνος ὁ**: lucha, competición, asamblea  
+- **ἀγωνίζομαι**: luchar, esforzarse, competir  
+- **ἀδελφός ὁ**: hermano  
+- **ἄδηλος ον**: invisible, desconocido  
+- **ἀδικέω**: ser injusto, cometer una injusticia  
+- **ἀδύνατος ον**: incapaz, imposible  
+- **ἀεί**: siempre, eternamente; también αἰεί  
+- **ἀείδω**: cantar; también ᾄδω, ἀοιδιάω  
+- **ἀθάνατος ον**: inmortal  
+- **ἄθλιος α ον**: miserable, desdichado  
+- **αἰγιαλός ὁ**: playa, orilla del mar  
+- **αἰδοῖος α ον**: respetable, honorable, modesto  
+- **αἴξ αἰγός ὁ ἡ**: cabra  
+- **αἱρέω**: tomar, coger; en voz media: elegir  
+- **αἴρω**: levantar, alzar  
+- **αἰσθάνομαι**: percibir, darse cuenta, comprender  
+- **αἰτέω**: pedir, solicitar  
+- **αἴτιος α ον**: culpable, responsable  
+- **ἀκίνητος ον**: inmóvil, inalterable  
+- **ἀκολουθέω**: seguir, acompañar  
+- **ἀκούω**: oír, escuchar  
+- **ἄκρος α ον**: alto, extremo, en la cima  
+- **ἀκτή ἡ**: costa, orilla; también cereal  
+- **ἀκτίς ἡ**: rayo, haz de luz  
+- **ἀληθής ές**: verdadero, sincero  
+- **ἁλιευτικός ή όν**: relativo a la pesca  
+- **ἅλις**: en abundancia, suficiente  
+- **ἀλλά**: pero, sino  
+- **ἀλλήλων**: unos a otros  
+- **ἀλλοῖος α ον**: de otro tipo, diferente  
+- **ἄλλος η ο**: otro  
+- **ἀλλότριος α ον**: ajeno, extranjero  
+- **ἄλουτος ον**: sin lavar  
+- **ἅμα**: al mismo tiempo, junto con  
+- **ἄμαξα ἡ**: carro, carreta  
+- **ἁμαρτάνω**: errar, fallar, pecar  
+- **ἄμαχος ον**: invencible, inofensivo  
+- **ἀμείνων ἄμεινον**: mejor, más noble (comparativo de ἀγαθός)  
+- **ἀμέλγω**: ordeñar  
+- **ἀμελέω**: descuidar, despreocuparse de  
+- **ἄμπελος ἡ**: vid  
+- **ἀμύνω**: rechazar, defender  
+- **ἀμφίπολος ὁ ἡ**: sirviente, asistente  
+- **ἄν**: partícula modal condicional  
+- **ἀνά**: hacia arriba, por todo, a lo largo de  
+- **ἀναβαίνω**: subir, embarcar  
+- **ἀναβλέπω**: mirar hacia arriba, recuperar la vista  
+- **ἀναγκάζω**: forzar, obligar  
+- **ἀνάγκη ἡ**: necesidad, destino inevitable  
+- **ἄναξ -κτος ὁ**: rey, señor  
+- **ἀναπαύω**: hacer cesar, descansar  
+- **ἀναπηδάω**: saltar, levantarse de repente  
+- **ἀναπνέω**: respirar, recuperar el aliento  
+- **ἄνασσα ἡ**: reina, protectora  
+- **ἀναστρέφω**: voltear, girar; en voz media: comportarse  
+- **ἀνατέλλω**: hacer crecer, brotar  
+- **ἀνατίθημι**: atribuir, dedicar  
+- **ἀνατρέχω**: correr hacia arriba, retroceder  
+- **ἀναχωρέω**: retirarse, volver atrás  
+- **ἀνδρεῖος α ον**: valiente, viril  
+- **ἀνδρίς ίδος ἡ**: mujer  
+- **ἀνδρών -ῶνος ὁ**: sala de los hombres, comedor  
+- **ἀνεγείρω**: despertar, levantar  
+- **ἀνέλκω**: levantar, sacar  
+- **ἄνεμος ὁ**: viento  
+- **ἀνέρχομαι**: subir, regresar  
+- **ἄνευ**: sin, lejos de  
+- **ἀνέχω**: sostener; en voz media: soportar, aguantar  
+- **ἀνήρ ἀνδρός ὁ**: hombre, varón  
+- **ἄνθος -ους τό**: flor  
+- **ἄνθραξ -ακος ὁ**: carbón, ascua  
+- **ἀνθρώπινος η ον**: humano  
+- **ἄνθρωπος ὁ ἡ**: ser humano, persona  
+- **ἀνίστημι**: levantar, alzarse, erigir  
+- **ἀνόητος ον**: necio, sin sentido  
+- **ἀνοίγω**: abrir  
+- **ἀνοικοδομέω**: reconstruir, reedificar  
+- **ἀντέχω**: resistir, aguantar  
+- **ἄντρον τό**: cueva, gruta  
+- **ἄνω**: arriba, hacia lo alto  
+- **ἄξιος α ον**: digno, merecedor  
+- **ἀξιόω**: considerar digno, valorar  
+- **ἄοκνος ον**: decidido, resuelto  
+- **ἀπάγω**: llevar lejos, llevar de vuelta  
+- **ἀπαλλαγή ἡ**: liberación, alivio
+- **ἅπας ἅπασα ἅπαν**: todo, entero  
+- **ἄπειμι**: estar ausente, irse, regresar  
+- **ἄπειρος ον**: inexperto, infinito  
+- **ἀπελαύνω**: expulsar, excluir, rechazar  
+- **ἀπέραντος ον**: infinito, ilimitado  
+- **ἀπέρχομαι**: irse, marcharse, partir  
+- **ἀπέχω**: alejar, apartar; abstenerse  
+- **ἀπό**: desde, de  
+- **ἀποβαίνω**: desembarcar, salir, resultar  
+- **ἀποβάλλω**: arrojar, perder  
+- **ἀποβλέπω**: mirar fijamente, admirar  
+- **ἀποθνῄσκω**: morir  
+- **ἀποκαλύπτω**: descubrir, revelar  
+- **ἀπόκρημνος ον**: escarpado, abrupto  
+- **ἀποκρίνω**: separar; responder, rechazar, defenderse  
+- **ἀποκτείνω**: matar  
+- **ἀπολιμπάνω**: dejar atrás, abandonar, fallar  
+- **ἀπόλλυμι**: destruir, matar, perder  
+- **ἀπολύω**: soltar, liberar  
+- **ἀποπέμπω**: enviar lejos, despedir  
+- **ἀποπλέω**: zarpar, navegar lejos  
+- **ἀπορέω**: estar perplejo, dudar  
+- **ἀπορία ἡ**: dificultad, apuro  
+- **ἀποτέμνω**: cortar, amputar  
+- **ἀποτρέπω**: apartar, desviar  
+- **ἀποφέρω**: llevarse, transportar  
+- **ἀποφεύγω**: evitar, huir, escapar  
+- **ἀποχωρέω**: retirarse, alejarse  
+- **ἅπτω**: encender, unir; en voz media: tocar, aferrarse  
+- **ἀπωθέω**: rechazar, empujar lejos  
+- **ἆρα**: maldición, desgracia; plegaria  
+- **ἄρατρον τό**: arado  
+- **ἀργός ή όν**: brillante, rápido  
+- **ἀργύρεος α ον**: de plata  
+- **ἀργύριον τό**: moneda de plata, dinero  
+- **ἄρδω**: regar, dar agua  
+- **ἀρετή ἡ**: virtud, excelencia  
+- **ἀρή ἡ**: maldición, desgracia; plegaria  
+- **ἀριθμός ὁ**: número  
+- **ἀριστερός ά όν**: izquierdo  
+- **ἄριστος η ον**: el mejor, excelente  
+- **ἀρκέω**: defender, proteger; ser suficiente  
+- **ἄροτρον τό**: arado  
+- **ἁρπάζω**: arrebatar, saquear  
+- **ἀρχαῖος α ον**: antiguo, primitivo  
+- **ἀρχή ἡ**: comienzo, origen; autoridad, mando  
+- **ἄρχω**: gobernar, mandar; en voz media: empezar  
+- **ἀσκέω**: trabajar, ejercitarse, practicar  
+- **ἀσκός ὁ**: odre, pellejo  
+- **ἀσπαίρω**: retorcerse, convulsionar  
+- **ἀσπίς ἀσπίδος ἡ**: escudo  
+- **ἀστός ὁ**: ciudadano, habitante de la ciudad  
+- **ἄστυ ἄστεως τό**: ciudad  
+- **ἄτοπος ον**: extraño, antinatural, repulsivo  
+- **αὖθις**: de nuevo, otra vez, además  
+- **αὐλή ἡ**: patio, recinto  
+- **αὔλιον τό**: cabaña, gruta  
+- **αὐξάνω**: aumentar, fortalecer  
+- **αὔριον**: mañana (día siguiente)  
+- **αὐτίκα**: inmediatamente  
+- **αὐτός αὐτή αὐτό**: él mismo, ella misma, ello mismo  
+- **αὐτουργός ὁ**: autosuficiente, que trabaja su propia tierra  
+- **αὐχμός ὁ**: sequía  
+- **ἀφίημι**: lanzar, liberar, gastar  
+- **ἀφικνέομαι**: llegar, arribar  
+- **ἀφίστημι**: apartar, separarse; exigir pago  
+- **ἀφνειός ά όν**: rico, próspero  
+- **ἄφρων ἄφρον**: insensato, irreflexivo  
+- **ἄωρος ον**: colgante, suspendido  
+
+# B
+
+- **βαδίζω**: caminar, avanzar  
+- **βαίνω**: ir, caminar, estar de pie, subirse o bajarse  
+- **βακτηρία ἡ**: bastón, vara  
+- **βάλανος ἡ**: nuez; clavija, perno  
+- **βάλλω**: lanzar, golpear, poner, sugerir  
+- **βάρβαρος ον**: extranjero, no griego  
+- **βασίλεια ἡ**: noble, reina  
+- **βασιλεύς βασιλέως ὁ**: rey, señor  
+- **βασιλεύω**: ser rey, gobernar  
+- **βέβαιος α ον**: firme, seguro  
+- **βῆ**: balido de oveja  
+- **βίαιος α ον**: violento, forzado  
+- **βίος ὁ**: vida, existencia  
+- **βλάπτω**: dañar, perjudicar, hacer fracasar  
+- **βλέπω**: ver, mirar  
+- **βοάω**: gritar, clamar  
+- **βοή ἡ**: estruendo, grito  
+- **βοηθέω**: ayudar, socorrer  
+- **βότρυς βοτρύος ὁ**: racimo de uvas  
+- **βούλομαι**: querer, desear  
+- **βοῦς βοός ὁ/ἡ**: buey, vaca, toro  
+- **βραδύς εῖα ύ**: lento, torpe, tardío  
+- **βροντή ἡ**: trueno  
+- **βωμός ὁ**: altar, pedestal, plataforma  
+
+# Γ
+- **γαμέω**: casarse, tomar por esposa  
+- **γάρ**: pues, porque  
+- **γέη ἡ**: tierra, región, país  
+- **γελαστός ή όν**: risueño, burlón  
+- **γελάω**: reír, sonreír, burlarse  
+- **γεμίζω**: llenar, cargar  
+- **γεραιός ά όν**: viejo, anciano  
+- **γέρων γέροντος ὁ**: anciano  
+- **γεωργέω**: cultivar la tierra, labrar  
+- **γεωργός ὁ**: agricultor  
+- **γηράσκω**: envejecer  
+- **γίγνομαι**: nacer, suceder, convertirse en  
+- **γιγνώσκω**: conocer, percibir  
+- **γνωρίζω**: dar a conocer, descubrir  
+- **γράφω**: escribir, grabar  
+- **γυμνάζω**: ejercitar, entrenar  
+- **γυμνός ή όν**: desnudo, desarmado  
+- **γυνή γυναικός ἡ**: mujer  
+
+# Δ
+- **δαιμόνιος α ον**: divino, extraordinario; voc.: ¡tú, loco!  
+- **δαίς δαιτός ἡ**: banquete  
+- **δάκνω**: morder  
+- **δάκρυ τό**: lágrima  
+- **δάκρυον τό**: lágrima  
+- **δακρύω**: llorar  
+- **δέ**: pero, y  
+- **δεινός ή όν**: terrible, poderoso, hábil  
+- **δειπνέω**: cenar, comer  
+- **δεῖπνον τό**: comida, cena  
+- **δέκα**: diez  
+- **δέκατος η ον**: décimo  
+- **δένδρον τό**: árbol  
+- **δεξιός ά όν**: derecho, diestro  
+- **δέρμα δέρματος τό**: piel, cuero  
+- **δεσμωτήριον τό**: prisión  
+- **δέσποινα ἡ**: señora, dueña  
+- **δεσπότης δεσπότου ὁ**: amo, señor, déspota  
+- **δεῦρο**: aquí, ven aquí  
+- **δεύτερος α ον**: segundo  
+- **δέχομαι**: aceptar, recibir, esperar  
+- **δέω**: necesitar, carecer de; atar, ligar  
+- **δή**: en verdad, ciertamente  
+- **δῆλος η ον**: visible, evidente  
+- **δηλόω**: mostrar, revelar  
+- **δῆμος ὁ**: pueblo, distrito  
+- **δημόσιος α ον**: público, estatal  
+- **δήπου**: quizás, ¿no es así?  
+- **διά**: a través de, entre, durante  
+- **διαβαίνω**: cruzar, atravesar  
+- **διαβάλλω**: arrojar a través, calumniar  
+- **διαβιβάζω**: transportar, llevar a través  
+- **διαβολή ἡ**: calumnia, difamación  
+- **διαγιγνώσκω**: discernir, distinguir  
+- **διάγω**: pasar el tiempo, transportar  
+- **διαθερμαίνω**: calentar completamente  
+- **διαιρέω**: dividir, distinguir  
+- **διακόπτω**: cortar a través, interrumpir  
+- **διαλέγω**: escoger, debatir  
+- **διάλεκτος διαλέκτου ἡ**: dialecto, lenguaje, discurso  
+- **διαπεράω**: atravesar, cruzar  
+- **διαπράσσω**: recorrer, llevar a cabo  
+- **διασῴζω**: preservar, salvar completamente  
+- **διατάσσω**: disponer, ordenar  
+- **διατρέχω**: recorrer, atravesar  
+- **διατρίβω**: desgastar, retrasar  
+- **διαφθείρω**: destruir, arruinar  
+- **διαφυλάσσω**: proteger, observar atentamente  
+- **διδάσκαλος διδασκάλου ὁ**: maestro, instructor  
+- **δίδωμι**: dar, conceder  
+- **διέρχομαι**: atravesar, recorrer  
+- **διηγέομαι**: narrar, describir detalladamente  
+- **δίκαιος α ον**: justo, recto  
+- **δίνη δίνης ἡ**: remolino, torbellino  
+- **διοικέω**: administrar, gobernar  
+- **διότι**: porque, ya que  
+- **δίψα δίψης ἡ**: sed  
+- **διώκω**: perseguir, acosar  
+- **δοκέω**: parecer, opinar, suponer  
+- **δόξα δόξης ἡ**: opinión, fama, gloria  
+- **δόρυ δουρός τό**: lanza, asta  
+- **δουλεύω**: servir, ser esclavo  
+- **δούλη δούλης ἡ**: esclava  
+- **δουλίς δουλίδος ἡ**: esclava  
+- **δοῦλος δούλου ὁ**: esclavo  
+- **δουλόω**: esclavizar  
+- **δρᾶμα δράματος τό**: acción, obra, drama  
+- **δραχμή δραχμῆς ἡ**: dracma (moneda)  
+- **δρέπω**: recoger, cosechar  
+- **δύναμαι**: poder, ser capaz  
+- **δύναμις δυνάμεως ἡ**: poder, capacidad, fuerza  
+- **δυνάτης δυνάτου ὁ**: señor, gobernante  
+- **δυνατός ή όν**: poderoso, posible  
+- **δύνω**: sumergirse, entrar, vestirse  
+- **δύο**: dos  
+- **δώδεκα**: doce  
+- **δῶρον δώρου τό**: regalo, presente
+- **διάλεκτος διαλέκτου ἡ**: dialecto, lenguaje, discurso  
+- **διαπεράω**: atravesar, cruzar  
+- **διαπράσσω**: recorrer, llevar a cabo  
+- **διασῴζω**: preservar, salvar completamente  
+- **διατάσσω**: disponer, ordenar  
+- **διατρέχω**: recorrer, atravesar  
+- **διατρίβω**: desgastar, retrasar  
+- **διαφθείρω**: destruir, arruinar  
+- **διαφυλάσσω**: proteger, observar atentamente  
+- **διδάσκαλος διδασκάλου ὁ**: maestro, instructor  
+- **δίδωμι**: dar, conceder  
+- **διέρχομαι**: atravesar, recorrer  
+- **διηγέομαι**: narrar, describir detalladamente  
+- **δίκαιος α ον**: justo, recto  
+- **δίνη δίνης ἡ**: remolino, torbellino  
+- **διοικέω**: administrar, gobernar  
+- **διότι**: porque, ya que  
+- **δίψα δίψης ἡ**: sed  
+- **διώκω**: perseguir, acosar  
+- **δοκέω**: parecer, opinar, suponer  
+- **δόξα δόξης ἡ**: opinión, fama, gloria  
+- **δόρυ δουρός τό**: lanza, asta  
+- **δουλεύω**: servir, ser esclavo  
+- **δούλη δούλης ἡ**: esclava  
+- **δουλίς δουλίδος ἡ**: esclava  
+- **δοῦλος δούλου ὁ**: esclavo  
+- **δουλόω**: esclavizar  
+- **δρᾶμα δράματος τό**: acción, obra, drama  
+- **δραχμή δραχμῆς ἡ**: dracma (moneda)  
+- **δρέπω**: recoger, cosechar  
+- **δύναμαι**: poder, ser capaz  
+- **δύναμις δυνάμεως ἡ**: poder, capacidad, fuerza  
+- **δυνάτης δυνάτου ὁ**: señor, gobernante  
+- **δυνατός ή όν**: poderoso, posible  
+- **δύνω**: sumergirse, entrar, vestirse  
+- **δύο**: dos  
+- **δώδεκα**: doce  
+- **δῶρον δώρου τό**: regalo, presente
+
+# E
+
+- **ἐάν**: (+subj) si, incluso si  
+- **ἔαρ ἔαρος τό**: primavera  
+- **ἑαυτοῦ**: pronombre reflexivo  
+- **ἐάω**: permitir, dejar, no preocuparse por  
+- **ἐγγύς**: cerca  
+- **ἐγείρω**: despertar, levantar  
+- **ἐγκαίω**: quemar dentro  
+- **ἐγκέφαλος ἐγκεφάλου ὁ**: cerebro  
+- **ἐγώ**: yo  
+- **ἕδος ἕδους τό**: asiento, lugar donde sentarse  
+- **ἐθέλω**: querer, consentir, estar dispuesto  
+- **ἔθνος ἔθνους τό**: pueblo, tribu, nación  
+- **εἰ**: si  
+- **εἰκός εἰκότος τό**: verosímil, probable  
+- **εἴκοσι**: veinte  
+- **εἰκότως**: adecuadamente, de manera apropiada  
+- **εἰκών εἰκόνος ἡ**: imagen, representación  
+- **εἴλω**: apretar, compactar  
+- **εἰμί**: ser, estar  
+- **εἶμι**: ir, venir  
+- **εἶπον**: decir, hablar  
+- **εἰρήνη εἰρήνης ἡ**: paz  
+- **εἴρω**: declarar, unir en palabras  
+- **εἷς ἑνός**: uno  
+- **εἰσάγω**: llevar dentro, introducir  
+- **εἰσβαίνω**: entrar, embarcar  
+- **εἴσειμι**: entrar, llegar a un punto  
+- **εἰσελαύνω**: llevar dentro, hacer entrar  
+- **εἰσέρχομαι**: entrar  
+- **εἰσηγέομαι**: liderar dentro, introducir  
+- **εἴσοδος εἰσόδου ἡ**: entrada  
+- **εἰσπίπτω**: caer dentro, precipitarse  
+- **εἰσπλέω**: navegar hacia dentro  
+- **εἰσφέρω**: llevar dentro, introducir  
+- **εἴτε**: si, siempre que  
+- **ἕκαστος η ον**: cada uno  
+- **ἑκατόν**: cien  
+- **ἐκβαίνω**: salir, desembarcar  
+- **ἐκβάλλω**: expulsar, arrojar fuera  
+- **ἐκεῖ**: allí  
+- **ἐκεῖνος ἐκείνη ἐκεῖνο**: aquel, aquella, aquello  
+- **ἐκεῖσε**: hacia allí  
+- **ἐκλείπω**: dejar fuera, omitir  
+- **ἐκπέμπω**: enviar fuera  
+- **ἐκπέτομαι**: volar lejos  
+- **ἐκπίπτω**: caer fuera de  
+- **ἔκπλοος ἔκπλοου ὁ**: salida de puerto, acceso a un puerto  
+- **ἐκποδών**: fuera del camino  
+- **ἐκρέω**: fluir fuera, derramarse  
+- **ἔκτοπος ον**: extraño, extranjero  
+- **ἐκφέρω**: llevar fuera, transportar
+- **ἐκφεύγω**: huir de, escapar  
+- **ἐλαία ἐλαίας ἡ**: olivo, aceituna  
+- **ἔλαιον ἐλαίου τό**: aceite, aceite de oliva  
+- **ἐλαύνω**: conducir, marchar, formar en línea  
+- **ἐλάχιστος η ον**: el más pequeño, el más corto, el menos  
+- **ἐλεέω**: tener piedad, compadecerse  
+- **ἐλευθερία ἐλευθερίας ἡ**: libertad  
+- **ἐλεύθερος α ον**: libre, no esclavizado  
+- **ἐλευθερόω**: liberar, hacer libre  
+- **ἕλκω**: arrastrar, tirar, levantar, violar  
+- **ἐλπίζω**: esperar, confiar en, tener esperanza  
+- **ἐμβαίνω**: pisar, embarcar  
+- **ἐμβλέπω**: mirar de frente, fijar la vista  
+- **ἐμός ή όν**: mío (pronombre posesivo)  
+- **ἔμπαλιν**: hacia atrás, al contrario  
+- **ἐμπίμπρημι**: incendiar, quemar completamente  
+- **ἐμπίπτω**: caer en, atacar  
+- **ἐμπορικός ή όν**: mercantil, comercial  
+- **ἐμπόριον ἐμπορίου τό**: mercado, emporio, lugar de comercio  
+- **ἔμπορος ἐμπόρου ὁ**: comerciante, pasajero  
+- **ἐναντίος α ον**: opuesto, contrario, enfrentado  
+- **ἕνδεκα**: once  
+- **ἔνδον**: dentro, en el interior  
+- **ἐνδύω**: vestirse, ponerse algo  
+- **ἔνειμι**: estar dentro, estar presente  
+- **ἔνθα**: entonces, allí; cuando, donde  
+- **ἐνθάδε**: aquí, hacia aquí  
+- **ἔνθεν**: de allí, desde donde  
+- **ἐνίοτε**: a veces  
+- **ἐννέα**: nueve  
+- **ἔνοικος ἐνοίκου ὁ**: habitante  
+- **ἐνόπλιος α ον**: marcial, guerrero  
+- **ἐνταῦθα**: hacia allí  
+- **ἐντεῦθεν**: desde allí  
+- **ἐντός**: dentro  
+- **ἐντυγχάνω**: encontrar, hallar, obtener, suceder  
+- **ἐνύπνιος α ον**: visto en sueños, onírico  
+- **ἕξ**: seis  
+- **ἐξάγω**: sacar, conducir fuera  
+- **ἐξαιρέω**: elegir, quitar, robar  
+- **ἐξαίφνης**: de repente  
+- **ἔξ-ειμι**: salir, ir fuera
+- **ἐξελαύνω**: expulsar, exiliar  
+- **ἐξέρχομαι**: salir  
+- **ἔξεστι**: es permitido, es posible  
+- **ἐξετάζω**: inspeccionar, interrogar, evaluar  
+- **ἐξηγέομαι**: guiar, dirigir, liderar  
+- **ἔοικα**: parecerse a, parecer probable  
+- **ἑορτή ἑορτῆς ἡ**: fiesta, festividad  
+- **ἐπαίρω**: levantar, alzar  
+- **ἐπάνειμι**: regresar  
+- **ἐπανέρχομαι**: volver, ascender  
+- **ἐπανίημι**: soltar, relajar  
+- **ἐπεί**: después, porque  
+- **ἐπειδάν**: cuando  
+- **ἔπειτα**: entonces, después  
+- **ἐπεκχωρέω**: avanzar después o a continuación  
+- **ἐπήν**: cuando, después  
+- **ἐπί**: sobre, en  
+- **ἐπιβαίνω**: pisar, abordar  
+- **ἐπιβάτης ἐπιβάτου ὁ**: infante de marina, pasajero  
+- **ἐπιβουλεύω**: tramar, conspirar, hacer daño  
+- **ἐπιγίγνομαι**: suceder, venir después  
+- **ἐπίγραμμα ἐπιγράμματος τό**: inscripción, título, firma del autor  
+- **ἐπιδείκνυμι**: mostrar, exhibir  
+- **ἐπιμελέομαι**: cuidar de, supervisar  
+- **ἐπιπέμπω**: enviar después, nuevamente, hacia  
+- **ἐπιπλέω**: navegar sobre, por  
+- **ἐπισκοπέω**: mirar, inspeccionar  
+- **ἐπίσταμαι**: saber cómo, comprender  
+- **ἐπιτίθημι**: aplicar, poner sobre  
+- **ἐπιτρέπω**: confiar, decidir  
+- **ἐπίφθονος**: celoso  
+- **ἐπιφλέγω**: quemar completamente  
+- **ἐπιχώριος α ον**: nativo  
+- **ἕπομαι**: seguir, acompañar  
+- **ἔπος ἔπους τό**: palabra, relato  
+- **ἑπτά**: siete  
+- **ἑπτάκις**: siete veces  
+- **ἐράω**: desear sexualmente  
+- **ἐργάζομαι**: trabajar, funcionar bien  
+- **ἐργαστήριον ἐργαστηρίου τό**: taller  
+- **ἔργον ἔργου τό**: trabajo, obra, acción  
+- **ἐρείδω**: presionar, apoyar  
+- **ἐρέσσω**: remar  
+- **ἐρέτης ἐρέτου ὁ**: remero  
+- **ἐρετμός ἐρετμοῦ ὁ**: remo  
+- **ἔρημος η ον**: vacío, desierto  
+- **ἐρίζω**: luchar, contender  
+- **ἔρις ἔριδος ἡ**: disputa, contienda  
+- **ἕρμα ἕρματος τό**: apoyo, zarcillo  
+- **ἔρομαι**: preguntar, interrogar  
+- **ἔρος ἔρωτος ὁ**: amor, deseo  
+- **ἔρχομαι**: ir, venir  
+- **ἐσθίω**: comer  
+- **ἑταῖρος ἑταίρου ὁ**: compañero  
+- **ἕτερος α ον**: otro, diferente  
+- **ἔτι**: todavía, aún  
+- **ἑτοῖμος η ον**: preparado, listo  
+- **ἔτος ἔτεος τό**: año  
+- **εὖ**: bien  
+- **εὐεργετέω**: hacer el bien, ser benefactor  
+- **εὐθύς**: recto, justo, inmediato  
+- **εὔκολος ον**: satisfecho, contento  
+- **εὐλογία ἐυλογίας ἡ**: bendición, elogio  
+- **εὐμενής ες**: benevolente, amable  
+- **εὑρίσκω**: encontrar, descubrir  
+- **εὔτακτος ον**: ordenado, disciplinado  
+- **εὐφημέω**: hablar favorablemente  
+- **εὔφρων ον**: alegre, jovial  
+- **εὐχή εὐχῆς ἡ**: oración, súplica  
+- **εὔχομαι**: declarar, jactarse, rezar
+- **ἐφεξῆς**: en orden, en fila  
+- **ἐφίστημι**: situarse, posicionarse, tomar postura  
+- **ἐχθαίρω**: odiar  
+- **ἐχθρός, ἐχθρά, ἐχθρόν**: odiado, desagradable  
+- **ἔχω**: tener, sostener, retener  
+- **ἕωθεν**: al amanecer, desde el alba  
+- **ἑωθινός, ἑωθινή, ἑωθινόν**: matutino, de la mañana  
+
+# Ζ  
+- **ζητέω**: buscar  
+- **ζυγόν, ζυγοῦ, τό**: yugo, par unido  
+- **ζῷον, ζῴου, τό**: ser vivo, animal  
+
+# Η  
+- **ἡβάω**: ser joven  
+- **ἡγεμών, ἡγεμόνος, ὁ**: líder, guía, jefe  
+- **ἡγέομαι**: liderar, preceder  
+- **ἤδη**: ya  
+- **ἥκιστος, ἡκίστη, ἥκιστον**: el menor, sobre todo  
+- **ἥκω**: estar presente, haber llegado  
+- **ἧλιξ, ἥλικος, ὁ/ἡ**: de la misma edad  
+- **ἥλιος, ἡλίου, ὁ**: sol  
+- **ἡμέρα, ἡμέρας, ἡ**: día  
+- **ἥμερος, ἡμέρα, ἥμερον**: domesticado, manso  
+- **ἡμέτερος, ἡμετέρα, ἡμέτερον**: nuestro, mío  
+- **ἡμίονος, ἡμιόνου, ὁ/ἡ**: mulo, mula  
+- **ἥμισυς, ἡμίσεια, ἥμισυ**: mitad  
+- **ἤπειρος, ἠπείρου, ἡ**: tierra firme  
+- **ἡσυχάζω**: estar tranquilo, descansar  
+- **ἥσυχος, ἡσύχη, ἥσυχον**: tranquilo  
+- **ἠώς, ἠοῦς, ἡ**: alba, aurora
+
+# Θ  
+- **θάμνος, ου, ὁ**: arbusto  
+- **θάνατος, ου, ὁ**: muerte  
+- **θάπτω**: enterrar  
+- **θαρρέω**: tener ánimo, confiar  
+- **θαῦμα, ατος, τό**: maravilla, asombro  
+- **θαυμάζω**: maravillarse, admirar  
+- **θαυμαστός, ή, όν**: maravilloso, admirable  
+- **θεά, ᾶς, ἡ**: diosa  
+- **θεάομαι**: contemplar, observar  
+- **θέατρον, ου, τό**: teatro  
+- **θεός, οῦ, ὁ/ἡ**: dios, diosa  
+- **θεραπεύω**: servir, asistir, ayudar  
+- **θεράπων, οντος, ὁ**: ayudante, sirviente  
+- **θερμαίνω**: calentar  
+- **θέρος, ους, τό**: verano  
+- **θεωρέω**: consultar un oráculo, observar, contemplar  
+- **θηρίον, ου, τό**: animal salvaje  
+- **θησαυρός, οῦ, ὁ**: tesoro  
+- **θνῄσκω**: morir  
+- **θνητός, ή, όν**: mortal  
+- **θορυβέω**: rugir, aclamar  
+- **θόρυβος, ου, ὁ**: ruido, clamor  
+- **θρᾶνος, ου, ὁ**: banco, viga  
+- **θραύω**: romper, hacer añicos  
+- **θρόνος, ου, ὁ**: asiento, silla, trono  
+- **θυγάτηρ, τρός, ἡ**: hija  
+- **θύννος, ου, ὁ**: atún  
+- **θύρα, ας, ἡ**: puerta
+
+# Ι  
+- **ἰάομαι**: curar  
+- **ἰατρεύω**: tratar médicamente  
+- **ἴδιος, α, ον**: privado, personal  
+- **ἱερεῖον, ου, τό**: animal sacrificial  
+- **ἱερός, ά, όν**: sagrado; sacrificios (pl.); lugar sagrado  
+- **ἵημι**: lanzar, emitir; desear, apuntar a  
+- **ἱκανός, ή, όν**: suficiente, competente, apto  
+- **ἱκετεύω**: suplicar, rogar  
+- **ἱκνέομαι**: alcanzar, llegar a  
+- **ἵκω**: ir, llegar  
+- **ἱλάσκομαι**: aplacar, propiciar  
+- **ἱμάτιον, ου, τό**: toga, manto  
+- **ἴον, ου, τό**: violeta (flor)  
+- **ἵππος, ου, ὁ/ἡ**: caballo  
+- **ἵστημι**: ponerse en pie, erigir, establecer  
+- **ἱστίον, ου, τό**: vela (de barco)  
+- **ἱστός, οῦ, ὁ**: mástil, telar  
+- **ἰσχυρός, ά, όν**: fuerte, vigoroso, violento  
+- **ἰσχύς, ύος, ἡ**: fuerza; cuerpo de tropas  
+
+# Κ  
+- **καθαιρέω**: bajar, cerrar  
+- **καθεύδω**: acostarse, dormir  
+- **καθίζω**: sentar(se)  
+- **καθοράω**: mirar hacia abajo  
+- **καί**: y  
+- **καίπερ**: aunque, incluso si  
+- **καιρός, οῦ, ὁ**: momento oportuno, estación, oportunidad  
+- **καίω**: quemar  
+- **κακός, ή, όν**: malo, malvado, feo, vil  
+- **καλέω**: llamar, nombrar  
+- **καλός, ή, όν**: bueno, bello, noble  
+- **κάμνω**: fatigarse, cansarse, conseguir con esfuerzo  
+- **καπηλεῖον, ου, τό**: tienda, taberna  
+- **κάπηλος, ου, ὁ**: comerciante, vendedor ambulante  
+- **καπνός, οῦ, ὁ**: humo  
+- **καρπός, οῦ, ὁ**: muñeca; fruto, grano  
+- **καρποφόρος, ον**: fructífero, que da fruto  
+- **κασσίτερος, ου, ὁ**: estaño  
+- **κατά**: (+ac.) a lo largo de, sobre, según; (+gen.) abajo en, a través de, desde  
+- **καταβαίνω**: bajar, descender  
+- **καταβάλλω**: arrojar abajo, desechar  
+- **κατάγω**: guiar abajo, hacer desembarcar  
+- **καταδέω**: atar, sujetar  
+- **καταδουλόω**: esclavizar  
+- **καταδύω**: sumergirse, hundirse  
+- **κατακλίνω**: acostar, recostar  
+- **καταλαμβάνω**: apoderarse de, comprender, atrapar, alcanzar  
+- **καταλέγω**: relatar en detalle; voz media: acostarse  
+- **καταλείπω**: dejar atrás, abandonar  
+- **καταλιμπάνω**: dejar atrás, abandonar  
+- **καταπίνω**: tragar  
+- **καταπίπτω**: caer abajo  
+- **καταπολεμέω**: derrotar en la guerra  
+- **κατασείω**: sacudir, arrojar abajo  
+- **κατασκευάζω**: equipar, construir  
+- **κατασκοπέω**: observar, espiar  
+- **κατάσκοπος, ου, ὁ**: espía, inspector  
+- **καταστρέφω**: volcar, dar la vuelta  
+- **κατάστρωμα, ατος, τό**: cubierta del barco  
+- **κατατέμνω**: cortar en pedazos  
+- **κατατρίβω**: desgastar, agotar  
+- **καταφεύγω**: recurrir a, huir hacia, apelar a  
+- **καταχέω**: verter, esparcir  
+- **κατέρχομαι**: bajar, descender  
+- **κατεσθίω**: devorar  
+- **κατέχω**: retener, sujetar, cubrir  
+- **κάτοιδα**: comprender  
+- **κάτω**: abajo, hacia abajo  
+- **κεῖμαι**: yacer, estar acostado  
+- **κελευστής, οῦ, ὁ**: contramaestre, timonel  
+- **κελεύω**: ordenar, exhortar  
+- **κενός, ή, όν**: vacío, vano  
+- **κεντέω**: aguijonear, azuzar  
+- **κέντρον, ου, τό**: aguijón, vara de espolear  
+- **κέρας, ατος, τό**: cuerno; unidad militar  
+- **κεραυνός, οῦ, ὁ**: rayo, relámpago  
+- **κεφάλαιος, α, ον**: punto principal, jefe  
+- **κεφαλή, ῆς, ἡ**: cabeza, altura  
+- **κῆπος, ου, ὁ**: jardín, huerto  
+- **κῆρυξ, υκος, ὁ**: heraldo, funcionario  
+- **κίνδυνος, ου, ὁ**: peligro  
+- **κλάζω**: gritar, resonar  
+- **κλείω**: contar, celebrar  
+- **κλέπτης, ου, ὁ**: ladrón  
+- **κλῆρος, ου, ὁ**: sorteo, lote religioso  
+- **κλίνη, ης, ἡ**: cama, lecho  
+- **κλύω**: oír, escuchar  
+- **κοινός, ή, όν**: común, ordinario  
+- **κολάζω**: castigar  
+- **κομίζω**: tomar, cuidar  
+- **κόπτω**: golpear, cortar, herir  
+- **κόραξ, ακος, ὁ**: cuervo  
+- **κόρη, ης, ἡ**: niña, doncella  
+- **κόρυμβος, ου, ὁ**: mástil de popa  
+- **κοσμέω**: ordenar, adornar  
+- **κόσμος, ου, ὁ**: orden, buena conducta, adorno  
+- **κραυγή, ῆς, ἡ**: grito, alarido  
+- **κρήνη, ης, ἡ**: pozo, fuente  
+- **κροκόδιλος, ου, ὁ**: lagarto, cocodrilo  
+- **κρύπτω**: esconder, cubrir  
+- **κρύσταλλος, ου, ὁ**: hielo  
+- **κυβερνάω**: gobernar, dirigir  
+- **κυβερνήτης, ου, ὁ**: timonel, gobernador  
+- **κυκάω**: agitar, mezclar  
+- **κύκλος, ου, ὁ**: círculo, rueda  
+- **κυμαίνω**: ondular, hincharse  
+- **κυψέλη, ης, ἡ**: caja, canal auditivo  
+- **κύων, κυνός, ὁ/ἡ**: perro  
+- **κωμάζω**: festejar, celebrar  
+- **κώμη, ης, ἡ**: aldea  
+- **κώπη, ης, ἡ**: mango, asa  
+
+# Λ  
+- **λαβύρινθος, ου, ὁ**: laberinto  
+- **λάθρᾳ**: en secreto  
+- **λαλέω**: charlar  
+- **λαμβάνω**: tomar, agarrar  
+- **λαμπάς, άδος, ἡ**: antorcha  
+- **λαμπρός, ά, όν**: brillante  
+- **λάμπω**: brillar  
+- **λανθάνω**: pasar desapercibido, olvidar  
+- **λέγω**: decir; colocar; reunir; contar  
+- **λείπω**: dejar algo, partir  
+- **λέων, οντος, ὁ**: león  
+- **λίθινος, η, ον**: hecho de piedra  
+- **λίθος, ου, ὁ**: piedra  
+- **λιμήν, ένος, ὁ**: puerto, refugio  
+- **λίνον, ου, τό**: cuerda, red, lino  
+- **λόγος, ου, ὁ**: palabra  
+- **λοιπός, ή, όν**: restante, lo que queda  
+- **λούω**: lavar, bañar  
+- **λυκοκτόνος, ον**: matador de lobos  
+- **λύκος, ου, ὁ**: lobo  
+- **λύω**: soltar, liberar, redimir  
+
+# Μ  
+- **μά**: por (en juramentos)  
+- **μάθημα, ατος, τό**: lección, conocimiento  
+- **μαθητής, οῦ, ὁ**: estudiante  
+- **μαίνομαι**: estar furioso, enloquecer  
+- **μακάριος, α, ον**: bienaventurado  
+- **μακρός, ά, όν**: largo, alto  
+- **μάλα**: muy  
+- **μανθάνω**: aprender, entrenarse  
+- **μάχη, ης, ἡ**: batalla  
+- **μάχομαι**: luchar, contender  
+- **μέγας, μεγάλη, μέγα**: grande, grandioso  
+- **μέγεθος, ους, τό**: tamaño, grandeza  
+- **μεθύω**: estar empapado, borracho  
+- **μειράκιον, ου, τό**: joven, mocoso  
+- **μέλας, μέλαινα, μέλαν**: negro, oscuro  
+- **μέλλω**: estar a punto de, tener intención de, ser probable, prepararse  
+- **μέλω**: preocupar, interesar, ser responsabilidad de alguien  
+- **μέν**: en verdad, pero aún así, más bien  
+- **μέντοι**: sin embargo  
+- **μένω**: permanecer, esperar, resistir  
+- **μέρος, ους, τό**: parte  
+- **μεσημβρία, ας, ἡ**: mediodía, el sur  
+- **μέσος, η, ον**: en medio, moderado  
+- **μεστός, ή, όν**: lleno  
+- **μετά**: entre; después de, en segundo lugar respecto a (+ acusativo)  
+- **μεταβολή, ῆς, ἡ**: cambio, intercambio  
+- **μέτοικος, ου, ὁ**: inmigrante  
+- **μέτωπον, ου, τό**: frente (parte del cuerpo)  
+- **μέχρι**: hasta, hasta que  
+- **μή**: partícula de negación en prohibiciones, evitaciones y deseos negativos futuros  
+- **μηδέ**: y no; ni siquiera  
+- **μηδείς, μηδεμία, μηδέν**: nadie  
+- **μηκέτι**: ya no  
+- **μήν, μηνός, ὁ**: en verdad; mes  
+- **μήτηρ, μητρός, ἡ**: madre  
+- **μικρός, ά, όν**: pequeño  
+- **μισθός, οῦ, ὁ**: salario, recompensa  
+- **μισθοφορέω**: trabajar por un sueldo  
+- **μνῆμα, ατος, τό**: monumento, recuerdo, memorial  
+- **μνήμη, ης, ἡ**: memoria, recuerdo  
+- **μόλις**: con dificultad, apenas  
+- **μόνος, η, ον**: solo, único  
+- **μοχλός, οῦ, ὁ**: viga, palanca  
+- **μῦθος, ου, ὁ**: palabra, discurso, relato, mito  
+- **μυχός, οῦ, ὁ**: rincón, nicho, hueco    
+
+# Ν
+- **ναί**: sí  
+- **ναυάγιον, ου, τό**: naufragio  
+- **ναύαρχος, ου, ὁ**: almirante  
+- **ναύκληρος, ου, ὁ**: dueño de un barco, arrendador  
+- **ναυμαχέω**: combatir en el mar  
+- **ναυμαχία, ας, ἡ**: batalla naval  
+- **ναῦς, νεώς, ἡ**: barco, nave  
+- **ναύτης, ου, ὁ**: marinero  
+- **ναυτικός, ή, όν**: relativo a los barcos  
+- **νεκρός, ά, όν**: muerto, cadáver  
+- **νέομαι**: ir, volver a casa  
+- **νέος, α, ον**: nuevo, joven  
+- **νεύω**: asentir con la cabeza  
+- **νεφέλη, ης, ἡ**: nube, niebla  
+- **νή**: sí  
+- **νῆσος, ου, ἡ**: isla  
+- **νικάω**: vencer, derrotar  
+- **νίκη, ης, ἡ**: victoria  
+- **νομίζω**: considerar como costumbre, creer  
+- **νόμος, ου, ὁ**: costumbre, ley  
+- **νόος, ου, ὁ**: mente, intención  
+- **νοσέω**: estar enfermo, estar loco, sufrir  
+- **νοστέω**: volver a casa  
+- **νύμφη, ης, ἡ**: ninfa, novia  
+- **νῦν**: ahora; orden o deseo  
+- **νύξ, νυκτός, ἡ**: noche  
+
+# Ξ  
+- **ξενίζω**: ser anfitrión, tratar como huésped  
+- **ξένος, η, ον**: huésped, anfitrión, extranjero  
+- **ξίφος, ους, τό**: espada  
+
+# Ο  
+- **ὁ, ἡ, τό**: artículo definido, pronombre demostrativo  
+- **ὀβολός, οῦ, ὁ**: óbolo, tipo de moneda pequeña  
+- **ὀδάξ**: con los dientes  
+- **ὅδε, ἥδε, τόδε**: este  
+- **ὁδός, οῦ, ἡ**: camino, viaje, umbral  
+- **ὅθεν**: de donde  
+- **οἶδα**: saber, conocer, reconocer, parecer, imitar  
+- **οἴκαδε**: hacia casa  
+- **οἰκεῖος, α, ον**: doméstico, familiar, propio  
+- **οἰκέω**: habitar  
+- **οἰκία, ας, ἡ**: casa, edificio  
+- **οἰκοδομέω**: construir  
+- **οἶκος, ου, ὁ**: casa  
+- **οἰκτίρω**: compadecerse  
+- **οἶμαι**: suponer, esperar  
+- **οἰνοπώλιον, ου, τό**: tienda de vino  
+- **οἶνος, ου, ὁ**: vino  
+- **οἴομαι**: suponer, esperar  
+- **οἷος, α, ον**: tal, semejante  
+- **ὀκνέω**: temer, dudar  
+- **ὀκτώ**: ocho  
+- **ὀλιγαρχία, ας, ἡ**: oligarquía  
+- **ὀλίγος, η, ον**: pequeño, poco  
+- **ὀλισθάνω**: resbalar  
+- **ὁλκάς, άδος, ἡ**: barco mercante remolcado  
+- **ὅλος, η, ον**: completo, en general, de hecho  
+- **ὁμαλός, ή, όν**: liso, uniforme  
+- **ὅμιλος, ου, ὁ**: multitud, muchedumbre  
+- **ὁμόνοια, ας, ἡ**: unanimidad  
+- **ὁμός, ή, όν**: mismo  
+- **ὁμοῦ**: juntos  
+- **ὅμως**: sin embargo  
+- **ὄναρ, τό**: sueño  
+- **ὄνομα, ατος, τό**: nombre  
+- **ὀνομάζω**: nombrar, llamar  
+- **ὄον, ου, τό**: tipo de fruta  
+- **ὄπισθεν**: detrás, en el futuro  
+- **ὁπλίτης, ου, ὁ**: hoplita, soldado de infantería pesada  
+- **ὅπλον, ου, τό**: herramienta, arma, aparejo de barco  
+- **ὁπόθεν**: de dónde  
+- **ὅπου**: donde  
+- **ὅπως**: como, para que  
+- **ὁράω**: ver  
+- **ὀργίζω**: enfurecer, provocar, molestar  
+- **ὀργίλος, η, ον**: irascible  
+- **ὀρθός, ή, όν**: erguido, recto; correcto, justo  
+- **ὁρμάω**: poner en movimiento, lanzarse  
+- **ὁρμέω**: estar anclado  
+- **ὄρνυμι**: incitar, provocar  
+- **ὄρος, ους, τό**: montaña, colina  
+- **ὅς, ἥ, ὅ**: este; que  
+- **ὅσος, η, ον**: tanto como, cuantos  
+- **ὅταν**: cuando sea que  
+- **ὅτε**: cuando  
+- **ὅτι**: porque, en cuanto que  
+- **οὐδαμοῦ**: en ninguna parte  
+- **οὐδαμῶς**: de ninguna manera  
+- **οὐδέ**: ni, tampoco  
+- **οὐδείς, οὐδεμία, οὐδέν**: nadie, nada  
+- **οὐδέποτε**: nunca  
+- **οὐκέτι**: ya no  
+- **οὖν**: entonces, pues  
+- **οὐρανός, οῦ, ὁ**: cielo  
+- **οὔριος, α, ον**: con viento favorable  
+- **οὔτε**: ni, tampoco  
+- **οὗτος, αὕτη, τοῦτο**: este  
+- **οὕτως**: así, entonces  
+- **ὀφθαλμός, οῦ, ὁ**: ojo  
+- **ὀχθέω**: estar perturbado emocionalmente  
+- **ὄχθος, ου, ὁ**: ribera, colina  
+- **ὀψέ**: tarde, al atardecer  
+- **ὄψις, εως, ἡ**: vista, visión  
+
+# Π
+- **πάθημα, ατος, τό**: sufrimiento, condición  
+- **πάθος, ους, τό**: experiencia, pasión, condición  
+- **παιάν, ᾶνος, ὁ**: peán  
+- **παιδίον, ου, τό**: niño pequeño; esclavo  
+- **παίζω**: jugar  
+- **παῖς, παιδός, ὁ/ἡ**: niño, niña  
+- **πάλιν**: de nuevo, otra vez  
+- **πανοῦργος, ον**: malvado; astuto  
+- **πανταχόσε**: en todas direcciones  
+- **πανταχοῦ**: en todas partes  
+- **πάππας, ου, ὁ**: papá  
+- **πάππος, ου, ὁ**: abuelo  
+- **παρά**: de, cerca de, junto a, contrario a  
+- **παραγίγνομαι**: estar junto a, asistir  
+- **παραλαμβάνω**: recibir, asumir, asociarse con  
+- **παρανεύω**: inclinarse hacia un lado  
+- **παραπλέω**: navegar más allá  
+- **παρασκευάζω**: preparar, disponer  
+- **πάρειμι**: estar presente, disponible  
+- **παρέχω**: proporcionar, suministrar  
+- **παρθένος, ου, ἡ**: doncella, virgen  
+- **πᾶς, πᾶσα, πᾶν**: todo, cada, entero  
+- **πάσχω**: experimentar, sufrir  
+- **πατήρ, πατρός, ὁ**: padre  
+- **πατρίς, ίδος, ἡ**: patria  
+- **πατρῷος, α, ον**: paterno, ancestral  
+- **παύω**: detener algo  
+- **πεζός, ή, όν**: a pie; infante  
+- **πείθω**: persuadir; confiar, obedecer  
+- **πεινάω**: tener hambre  
+- **πειράω**: intentar, probar  
+- **πεῖσμα, ατος, τό**: cuerda, amarre  
+- **πέμπτος, η, ον**: quinto  
+- **πέμπω**: enviar, conducir  
+- **πένης, ητος, ὁ**: trabajador  
+- **πένθος, ους, τό**: duelo, desgracia  
+- **πέντε**: cinco  
+- **πέπλος, ου, ὁ**: manto  
+- **περαίνω**: terminar  
+- **περί**: alrededor de, sobre, respecto a  
+- **περιγίγνομαι**: superar  
+- **περιέρχομαι**: rodear, dar la vuelta  
+- **περιμένω**: esperar  
+- **περισκοπέω**: inspeccionar, observar alrededor  
+- **περιτίθημι**: colocar alrededor, dotar de  
+- **πετάννυμι**: extender, desplegar  
+- **πέτομαι**: volar  
+- **πέτρα, ας, ἡ**: roca, acantilado  
+- **πήγνυμι**: clavar, fijar, construir  
+- **πιέζω**: presionar, apretar  
+- **πικρός, ά, όν**: afilado, amargo  
+- **πίνω**: beber  
+- **πίπτω**: caer  
+- **πιστεύω**: confiar, creer en  
+- **πιστός, ή, όν**: fiel  
+- **πλανάω**: extraviar, desorientar  
+- **πλέω**: navegar, flotar  
+- **πλῆθος, ους, τό**: gran número, multitud  
+- **πληθύνω**: multiplicar  
+- **πλήν**: excepto  
+- **πλήρης, ες**: lleno, completo; lleno de  
+- **πληρόω**: llenar, cumplir  
+- **πλησιάζω**: acercar(se)  
+- **πλήσσω**: golpear  
+- **πλοῖον, ου, τό**: barco  
+- **πλόος, ου, ὁ**: travesía, viaje  
+- **πλούσιος, α, ον**: rico, próspero  
+- **πλοῦτος, ου, ὁ**: riqueza  
+- **πλύνω**: lavar ropa  
+- **πνεῦμα, ατος, τό**: viento, aliento, espíritu  
+- **πνέω**: respirar, soplar  
+- **πόθεν**: ¿de dónde?  
+- **ποθέω**: extrañar, anhelar, notar una ausencia; perder  
+- **πόθος, ου, ὁ**: anhelo, arrepentimiento  
+- **ποῖ**: ¿hacia dónde? ¿hasta cuándo?  
+- **ποιέω**: hacer  
+- **ποιητής, οῦ, ὁ**: creador, autor  
+- **ποίμνιον, ου, τό**: rebaño  
+- **ποῖος, α, ον**: ¿de qué tipo?  
+- **πολεμέω**: hacer la guerra  
+- **πολέμιος, α, ον**: enemigo, hostil; relativo a la guerra  
+- **πόλεμος, ου, ὁ**: guerra, batalla  
+- **πολιορκέω**: sitiar  
+- **πολιοῦχος, ον**: protector de una ciudad  
+- **πόλις, εως, ἡ**: ciudad  
+- **πολίτης, ου, ὁ**: ciudadano  
+- **πολλάκις**: a menudo  
+- **πολλαπλάσιος, α, ον**: muchas veces más  
+- **πολλαχόσε**: hacia muchos lados  
+- **πολυβενθής, ές**: muy profundo  
+- **πολύμηλος, ον**: rico en rebaños  
+- **πολύμητις, ιος**: de muchos consejos  
+- **πολύς, πολλή, πολύ**: muchos, grande, la mayoría  
+- **πολύτροπος, ον**: ingenioso, versátil  
+- **πομπή, ῆς, ἡ**: envío, expedición  
+- **πονέω**: trabajar; estar ocupado  
+- **πονηρός, ά, όν**: oprimido; malvado  
+- **πόνος, ου, ὁ**: trabajo, sufrimiento  
+- **πόντος, ου, ὁ**: mar abierto, Mediterráneo  
+- **πορεύω**: llevar, transportar  
+- **πόρω**: dar (en aoristo); estar destinado (en perfecto)  
+- **πόσις, εως, ὁ/ἡ**: esposo, amo; bebida  
+- **πόσος, η, ον**: ¿cuánto?, ¿cuán grande?  
+- **ποταμός, οῦ, ὁ**: río  
+- **ποτέ**: en algún momento; anteriormente  
+- **ποῦ**: ¿dónde?  
+- **πούς, ποδός, ὁ**: pie, pierna  
+- **πρᾶγμα, ατος, τό**: hecho, asunto, cosa  
+- **πρᾶος, α, ον**: suave, gentil  
+- **πράσσω**: hacer, llevar a cabo  
+- **πρέσβυς, εως, ὁ**: anciano  
+- **πρό**: antes, delante de (+gen); adelante  
+- **προβαίνω**: avanzar, continuar  
+- **πρόβατον, ου, τό**: ganado, rebaño  
+- **πρόγονος, ου, ὁ**: primogénito, ancestro  
+- **προέρχομαι**: avanzar, salir  
+- **προπύλαιος, ον**: ante las puertas, entrada principal  
+- **πρός**: hacia, en dirección a  
+- **προσάπτω**: unir, sujetar  
+- **προσβάλλω**: golpear (+acc+dat); mp: prestar atención  
+- **προσδέχομαι**: esperar, aguardar  
+- **προσέρχομαι**: avanzar, rendirse, entrar  
+- **προσεύχομαι**: orar, hacer un voto  
+- **προσέχω**: dirigir algo hacia  
+- **προσήκω**: pertenecer a, ser apropiado  
+- **προσκλύζω**: lavar  
+- **προσκυνέω**: inclinarse ante, besar  
+- **προσπλέω**: navegar hacia, contra  
+- **προστρέχω**: correr hacia, unirse, atacar  
+- **προσχωρέω**: acercarse, unirse, apoyar  
+- **πρόσω**: adelante, en el futuro  
+- **προτεραῖος, α, ον**: anterior  
+- **προχωρέω**: avanzar, ir adelante  
+- **πρωΐ**: temprano por la mañana  
+- **πρῷρα, ας, ἡ**: proa  
+- **πρῶτος, η, ον**: primero, el principal  
+- **πταίω**: (act) tropezar, caer; (pas) ser omitido  
+- **πτόρθος, ου, ὁ**: brote, rama joven  
+- **πτωχός, ή, όν**: pobre, mendigo  
+- **πύλη, ης, ἡ**: puerta, portal  
+- **πῦρ, πυρός, τό**: fuego, pira  
+- **πύργος, ου, ὁ**: murallas, torre; línea de tropas  
+- **πωλέω**: vender  
+- **πώποτε**: nunca  
+- **πῶς**: cómo  
+
+# Ρ  
+- **ῥάβδος, ου, ἡ**: vara, bastón  
+- **ῥᾴδιος, α, ον**: fácil  
+- **ῥάκος, ους, τό**: harapo  
+- **ῥήγνυμι**: romper  
+- **ῥῆμα, ατος, τό**: palabra, dicho  
+- **ῥήτωρ, ορος, ὁ**: orador público  
+- **ῥιγέω**: estremecerse de miedo, estar inquieto  
+- **ῥίπτω**: lanzar  
+- **ῥόπαλον, ου, τό**: garrote, báculo  
+- **ῥώμη, ης, ἡ**: fuerza, poder  
+
+# Σ  
+- **σάκκος, ου, ὁ**: tela de saco  
+- **σαλπιγκτής, οῦ, ὁ**: trompetista  
+- **σαλπίζω**: tocar la trompeta  
+- **σαφής, ές**: claro, comprensible  
+- **σβέννυμι**: extinguir, apagarse  
+- **σῆμα, ατος, τό**: marca, señal, túmulo  
+- **σημεῖον, ου, τό**: signo, señal  
+- **σῖγα**: en silencio, susurrando  
+- **σιγάω**: estar en silencio  
+- **σῖτος, ου, ὁ/τό**: grano, pan, comida  
+- **σιωπάω**: estar en silencio  
+- **σκαιός, ά, όν**: zurdo  
+- **σκάπτω**: cavar  
+- **σκάφη, ης, ἡ**: artesa, bandeja  
+- **σκάφιον, ου, τό**: cuenco pequeño  
+- **σκάφος, ους, τό**: excavación, azada  
+- **σκιά, ᾶς, ἡ**: sombra  
+- **σκοπέω**: observar, considerar  
+- **σκοτεινός, ή, όν**: oscuro  
+- **σκότος, ους, ὁ/τό**: oscuridad, sombra  
+- **σοφός, ή, όν**: hábil, inteligente, sabio  
+- **σπάνιος, α, ον**: raro, escaso  
+- **σπείρω**: sembrar  
+- **σπένδω**: hacer una libación; (medio) hacer un tratado  
+- **σπέρμα, ατος, τό**: semilla  
+- **σπεύδω**: apresurarse, darse prisa  
+- **σπήλαιον, ου, τό**: gruta, caverna  
+- **σπονδή, ῆς, ἡ**: libación, tratado  
+- **σπουδή, ῆς, ἡ**: esfuerzo, prisa, seriedad  
+- **στέλλω**: preparar, enviar, recoger  
+- **στενάζω**: suspirar, gemir  
+- **στενός, ή, όν**: estrecho  
+- **στέφανος, ου, ὁ**: corona, anillo  
+- **στεφανόω**: rodear, coronar  
+- **στήλη, ης, ἡ**: poste, columna  
+- **στιβάς, άδος, ἡ**: colchón  
+- **στοά, ᾶς, ἡ**: columnata techada, almacén  
+- **στόλος, ου, ὁ**: expedición  
+- **στόμα, ατος, τό**: boca  
+- **στρατεύω**: hacer campaña, guerrear  
+- **στρατηγέω**: ser general  
+- **στρατηγός, οῦ, ὁ**: líder, general  
+- **στρατιά, ᾶς, ἡ**: ejército  
+- **στρατιώτης, ου, ὁ**: soldado, mercenario  
+- **στρατόπεδον, ου, τό**: campamento militar  
+- **στρατός, οῦ, ὁ**: ejército, soldados  
+- **στρογγύλος, η, ον**: redondo  
+- **στρουθός, οῦ, ὁ**: gorrión  
+- **σύ**: tú  
+- **σῦκον, ου, τό**: higo  
+- **συλλαμβάνω**: arrestar, capturar  
+- **συλλέγω**: recolectar, reunir  
+- **συμβάλλω**: comparar, confrontar; mp: encontrarse, coincidir  
+- **σύμμαχος, ον**: aliado  
+- **συμπίπτω**: caer juntos, ocurrir  
+- **συμφορά, ᾶς, ἡ**: acontecimiento, desgracia  
+- **σύν**: con  
+- **συναγείρω**: reunir  
+- **συνέδριον, ου, τό**: consejo, asamblea  
+- **συνέρχομαι**: reunirse  
+- **συνθήκη, ης, ἡ**: acuerdo, convención  
+- **συφεός, οῦ, ὁ**: pocilga  
+- **σφαῖρα, ας, ἡ**: bola, esfera  
+- **σφαῖρος, ου, ὁ**: bola, esfera  
+- **σφόδρα**: muy, en gran medida  
+- **σχεδόν**: cerca, aproximadamente  
+- **σχολάζω**: tener tiempo libre  
+- **σχολή, ῆς, ἡ**: descanso, ocio  
+- **σώζω**: salvar  
+- **σῶμα, ατος, τό**: cuerpo, persona, cosa  
+- **σῶς, σῶς, σῶν**: salvo, vivo  
+- **σωφρονέω**: ser sensato, moderado  
+- **σώφρων, ον**: prudente, sensato  
+
+# Τ  
+- **ταῦρος, ου, ὁ**: toro  
+- **ταχύς, εῖα, ύ**: rápido  
+- **τέ**: y  
+- **τεῖχος, ους, τό**: muralla exterior  
+- **τέκνον, ου, τό**: hijo  
+- **τεκνοποιέω**: engendrar hijos  
+- **τελευταῖος, α, ον**: último, final  
+- **τελευτάω**: acabar, finalizar  
+- **τέλος, ους, τό**: fin, destino, puesto militar  
+- **τέμενος, ους, τό**: tierra reservada, santuario  
+- **τέρας, ατος, τό**: presagio, prodigio  
+- **τέρπω**: deleitar, satisfacer  
+- **τέσσαρες, τέσσαρα**: cuatro  
+- **τέταρτος, η, ον**: cuarto  
+- **τέχνη, ης, ἡ**: arte, oficio, técnica  
+- **τίθημι**: poner, causar, conceder, fabricar  
+- **τίκτω**: engendrar  
+- **τις, τι**: alguien, algo  
+- **τίς, τί**: quién, qué  
+- **τλήμων, ον**: resistente, sufrido  
+- **τοιοῦτος, τοιαύτη, τοιοῦτο**: tal, de este tipo  
+- **τοκεύς, έως, ὁ**: progenitor, padre  
+- **τόλμα, ης, ἡ**: valor, audacia  
+- **τολμάω**: atreverse  
+- **τόπος, ου, ὁ**: lugar  
+- **τοσοῦτος, τοσαύτη, τοσοῦτο**: tanto, tan grande  
+- **τότε**: entonces, en aquel momento  
+- **τραγῳδία, ας, ἡ**: tragedia  
+- **τράπεζα, ης, ἡ**: mesa  
+- **τραῦμα, ατος, τό**: herida  
+- **τρεῖς, τρία**: tres  
+- **τρέπω**: girar, desviar  
+- **τρέφω**: alimentar, criar  
+- **τρέχω**: correr  
+- **τριήρης, ους, ἡ**: trirreme  
+- **τρίς**: tres veces  
+- **τρίτος, η, ον**: tercero  
+- **τρόπος, ου, ὁ**: manera, modo  
+- **τροφή, ῆς, ἡ**: alimento, sustento  
+- **τυγχάνω**: obtener, suceder, encontrar  
+- **τύπτω**: golpear  
+- **τυραννίς, ίδος, ἡ**: tiranía  
+- **τύραννος, ου, ὁ**: tirano  
+- **τυφλός, ή, όν**: ciego  
+- **τύχη, ης, ἡ**: fortuna, destino  
+ 
+# Υ  
+- **ὑβρίζω**: ultrajar, insultar  
+- **ὕβρις, ὕβρεως, ἡ**: soberbia, violencia  
+- **ὑγιής, ὑγιές**: sano, saludable  
+- **ὑδρία, ὑδρίας, ἡ**: jarra, ánfora  
+- **ὕδωρ, ὕδατος, τό**: agua  
+- **υἱός, υἱοῦ, ὁ**: hijo  
+- **ὑλακτέω**: ladrar  
+- **ὕλη, ὕλης, ἡ**: bosque, leña  
+- **ὑμέτερος, ὑμετέρα, ὑμέτερον**: vuestro  
+- **ὑμνέω**: cantar himnos  
+- **ὑπακούω**: obedecer, escuchar  
+- **ὑπάρχω**: existir, ser, pertenecer  
+- **ὑπείκω**: ceder, retroceder  
+- **ὑπέρ**: sobre, más allá de  
+- **ὑπέρκοπος, ὑπέρκοπον**: arrogante, extravagante  
+- **ὑπέχω**: sostener, soportar  
+- **ὑπηρέτης, ὑπηρέτου, ὁ**: sirviente, oficial  
+- **ὕπνος, ὕπνου, ὁ**: sueño  
+- **ὑπό**: bajo, por  
+- **ὑποδέχομαι**: recibir, aceptar  
+- **ὑπολαμβάνω**: suponer, interpretar  
+- **ὗς, ὑός, ὁ/ἡ**: cerdo  
+- **ὑστεραῖος, ὑστεραία, ὑστεραῖον**: del día siguiente  
+- **ὕστερος, ὑστέρα, ὕστερον**: posterior, siguiente  
+- **ὑφαίνω**: tejer  
+
+# Φ
+- **φαίνω**: mostrar; (medio) aparecer  
+- **φάρμακον, φαρμάκου, τό**: medicamento, veneno  
+- **φέγγος, φέγγους, τό**: luz, resplandor  
+- **φέρω**: llevar, traer  
+- **φεύγω**: huir, escapar  
+- **φημί**: decir, afirmar  
+- **φθόγγος, φθόγγου, ὁ**: sonido, voz  
+- **φιλάνθρωπος, φιλάνθρωπον**: humano, benévolo  
+- **φιλέω**: amar  
+- **φίλος, φίλη, φίλον**: amado, amigo  
+- **φλέγω**: arder, brillar  
+- **φλυαρέω**: decir tonterías  
+- **φοβερός, φοβερά, φοβερόν**: temible, aterrador  
+- **φοβέω**: asustar; (medio) temer  
+- **φόβος, φόβου, ὁ**: miedo, pánico  
+- **φονή, φονῆς, ἡ**: sangre derramada  
+- **φορτίον, φορτίου, τό**: carga  
+- **φράζω**: indicar, explicar  
+- **φράσσω**: cercar, proteger  
+- **φροντίζω**: preocuparse, reflexionar  
+- **φυγή, φυγῆς, ἡ**: fuga, escape  
+- **φύλλον, φύλλου, τό**: hoja  
+- **φυτεύω**: plantar, cultivar  
+- **φύω**: hacer crecer, producir  
+- **φωνή, φωνῆς, ἡ**: voz, sonido  
+- **φῶς, φωτός, τό**: luz  
+
+# Χ
+- **χαίρω**: alegrarse  
+- **χαλεπαίνω**: estar enojado, enfurecerse  
+- **χαλεπός, χαλεπή, χαλεπόν**: difícil, duro  
+- **χαμαί**: en el suelo  
+- **χάρις, χάριτος, ἡ**: gracia, favor  
+- **χάσμα, χάσματος, τό**: abismo, grieta  
+- **χειμών, χειμῶνος, ὁ**: invierno, tormenta  
+- **χείρ, χειρός, ἡ**: mano  
+- **χίλιοι, χίλιαι, χίλια**: mil  
+- **χορεύω**: bailar  
+- **χορός, χοροῦ, ὁ**: danza, coro  
+- **χόρτος, χόρτου, ὁ**: pasto, corral  
+- **χράω**: profetizar; (medio) usar, tratar  
+- **χρῆμα, χρήματος, τό**: posesión, riqueza  
+- **χρόνος, χρόνου, ὁ**: tiempo  
+- **χωλός, χωλή, χωλόν**: cojo  
+- **χῶμα, χώματος, τό**: montículo, terraplén  
+- **χώρα, χώρας, ἡ**: región, tierra  
+- **χωρίον, χωρίου, τό**: área, terreno  
+- **χῶρος, χώρου, ὁ**: lugar  
+
+# Ψ
+- **ψέγω**: criticar, censurar  
+- **ψευδής, ψευδές**: falso  
+- **ψόφος, ψόφου, ὁ**: ruido  
+- **ψύχω**: soplar, enfriar
+
+# Ω  
+- **ὠνέομαι**: comprar  
+- **ὤνιος, ὠνία, ὤνιον**: en venta  
+- **ὡραῖος, ὡραία, ὡραῖον**: en su mejor momento  
+- **ὥσπερ**: como si, tal como  
+- **ὥστε**: para que, de modo que  
+- **ὠφελέω**: ayudar, ser útil  
