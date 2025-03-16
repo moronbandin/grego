@@ -9,7 +9,13 @@ theme:
     - toc.integrate
     - search.highlight
     - search.suggest
-
+  palette:
+    scheme: default  # Puedes cambiar a 'default', 'slate', 'dracula', etc.
+    primary: deep-blue  # Color principal (navbar y botones)
+    accent: deep-blue  # Color de acentos
+  font:
+    text: Roboto  # Fuente para el texto
+    code: Fira Code  # Fuente para el código
 plugins:
   - search
 
