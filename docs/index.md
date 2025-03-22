@@ -100,13 +100,11 @@ Espero que este espazo che axude a mellorar o teu coñecemento do grego e da cul
 ---
 
 **📌 Observacións xerais:**
+
 - **Os exames finais de trimestre cubrirán as cinco unidades do trimestre.**
 - **Os exames parciais cobren dúas unidades e permiten un seguimento progresivo.**
 - **Os traballos e proxectos serán distribuídos equitativamente ao longo do curso, asegurando tempo suficiente para a súa elaboración.**
 - **As sesións de repaso e reforzo estarán incluídas antes de cada exame.**
-
-Agora que temos o cronograma completo, podemos pasar a definir en detalle as sesións do **primeiro trimestre**, con actividades específicas en cada clase. Que che parece?
-
 
 # **📌 PRIMEIRO TRIMESTRE (10 de setembro - 19 de decembro)**
 👉 **Obxectivo xeral:** Construír as bases do grego antigo, traballando **alfabeto, flexión nominal inicial, os verbos máis básicos e primeiras estruturas sintácticas.**  
@@ -154,7 +152,7 @@ Agora que temos o cronograma completo, podemos pasar a definir en detalle as ses
 ---
 
 ## **🔹 UNIDADE 3: Σχήμα καὶ δομή (Forma e estrutura)**
-- **Contidos lingüísticos:** Presente de indicativo (todas as persoas), artigo en singular e plural, segunda declinación, funcións básicas dos casos.  
+- **Contidos lingüísticos:** Presente de indicativo (todas as persoas), artigo en plural, segunda declinación, funcións básicas dos casos.  
 - **Contidos culturais:** Agricultura en Grecia, concepto de propiedade.  
 - **Léxico:** O campo e o traballo.  
 - **Suxestións de textos:** *οἱ γεωργοί ἐργάζονται* (o traballo e a comunidade).  
@@ -268,6 +266,13 @@ Agora que temos o cronograma completo, podemos pasar a definir en detalle as ses
 - **Criterios de avaliación:** CA3.1, CA4.3.  
 - **Avaliación:** Exame de trimestre.  
 
+## **🔹 UNIDADE 10: Παλαίστρα καὶ Μουσεῖον (Palestra e Museo)**
+- **Contidos lingüísticos:** O imperfecto, sintaxe do infinitivo.  
+- **Contidos culturais:** Educación en Atenas e Esparta.  
+- **Léxico:** Deporte e educación.  
+- **Obxectivos:** OBX3, OBX4.  
+- **Criterios de avaliación:** CA3.1, CA4.1.  
+
 ## Actividades
 
 ### ✅ **5. Creación dun pequeno glosario de neoloxismos científicos**  
@@ -311,16 +316,6 @@ Agora que temos o cronograma completo, podemos pasar a definir en detalle as ses
 | **36** | 02/06 - 06/06  | Unidade 14 – Subordinadas e discurso indirecto | Análise de Isócrates e Demóstenes |
 | **37** | 09/06 - 13/06  | Unidade 15 – Futuro e evolución da lingua grega | Aplicación á lectura de textos filosóficos |
 | **38** | 16/06 - 19/06  | **EXAME FINAL DO 3º TRIMESTRE** (Unidades 11-15) | Última sesións de repaso |
-
-
----
-
-## **🔹 UNIDADE 10: Παιδεία καὶ ἀγών (Educación e competición)**
-- **Contidos lingüísticos:** O imperfecto, sintaxe do infinitivo.  
-- **Contidos culturais:** Educación en Atenas e Esparta.  
-- **Léxico:** Deporte e educación.  
-- **Obxectivos:** OBX3, OBX4.  
-- **Criterios de avaliación:** CA3.1, CA4.1.  
 
 ---
 

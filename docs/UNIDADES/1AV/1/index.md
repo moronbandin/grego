@@ -40,7 +40,13 @@ Nesta unidade, o alumnado aprenderá os fundamentos da lingua grega antiga, cent
 
 ### Suxestións de textos  
 - Adaptación do principio do Evanxeo de Xoán (*Ἐν ἀρχῇ ἦν ὁ Λόγος...*): introdución ao significado de *λόγος* na cultura grega.  
-- *ὁ Δικαιόπολις γεωργός ἐστιν* (adaptación de *Athenaze*): estruturación básica da oración grega con suxeito e verbo.  
+- Fragmento de Hesíodo, *Traballos e Días* – Sobre o traballo e o orde do cosmos.
+  
+#### Athenaze
+
+- [*ὁ Δικαιόπολις γεωργός ἐστιν*](textos/1.md): estruturación básica da oración grega con suxeito e verbo.  
+  
+
 
 ---
 
