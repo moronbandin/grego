@@ -1,11 +1,12 @@
-### 9. **Os corpos e os días** (8 sesións) 
-1. Sociedade, educación e ocio  
-2. A terceira declinación. Temas en vogal e en ditongo  
-3. A voz media e a voz pasiva  
-4. A tradución do complemento circunstancial  
+### 8. **O combate e a palabra**  (8 sesións)
+1. Os exércitos de Atenas e Esparta  
+2. A contracción vocálica  
+3. A terceira declinación. Temas en silbante  
+4. Os verbos contractos  
+5. O participio absoluto  
+6. A tradución do xenitivo  
 - Traballa cos textos  
 - Aplica o aprendido  
 - Pegadas helenas  
 - **Textos**:  
-  - 📁 *1AV/5* → Ο ΔΟΥΛΟΣ ΤΟΝ ΚΥΝΑ ΟΥ ΦΙΛΕΙ, Ο ΑΡΓΟΣ ΤΑ ΠΡΟΒΑΤΑ ΣΩΙΖΕΙ  
-  - 📁 *2AV/6* → Ο ΜΥΘΟΣ (α), Ο ΔΙΚΑΙΟΠΟΛΙΣ ΑΓΑΝΑΚΤΕΙ  
+  - 📁 *1AV/5* → ΑΙ ΚΟΡΑΙ ΤΑ ΠΡΟΒΑΤΑ ΟΡΩΣΙΝ, Ο ΛΥΚΟΣ (α), Ο ΛΥΚΟΣ (β)  
