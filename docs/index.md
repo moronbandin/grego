@@ -9,29 +9,30 @@ Benvido a este espazo, onde atoparás recursos organizados por unidades didácti
 Este curso está dividido en **tres trimestres**, cada un con varias unidades de aprendizaxe. Podes navegar polas unidades desde o menú lateral ou facendo clic nas ligazóns a continuación:  
 
 ### 🔹 **Primeiro Trimestre (1AV)**
-- 📖 [Unidade 1: Ἐν ἀρχῇ ἦν ὁ Λόγος](UNIDADES/1AV/1/index.md)
-- 🏛️ [Unidade 2: Θεμέλια λόγου καὶ πόλεως](UNIDADES/1AV/2/index.md)
-- 📐 [Unidade 3: Οὐκ ἄνευ τοῦ σχήματος](UNIDADES/1AV/3/index.md)
-- 🏺 [Unidade 4: Λίθοι καὶ στυλοβάται](UNIDADES/1AV/4/index.md)
-- 🗣️ [Unidade 5: Γλῶττα ἐν δράσει](UNIDADES/1AV/5/index.md)
+- 🪨 [Unidade 1: A pedra angular](UNIDADES/1AV/1/index.md)
+- 🌍 [Unidade 2: Nomear o mundo, ordenar o caos](UNIDADES/1AV/2/index.md)
+- 🏞️ [Unidade 3: Ubi sunt?](UNIDADES/1AV/3/index.md)
+- 🕰️ [Unidade 4: Do tempo primeiro](UNIDADES/1AV/4/index.md)
+- ⏳ [Unidade 5: Πάντα ῥεῖ: cando o tempo cambia de nome](UNIDADES/1AV/5/index.md)
 
 ### 🔹 **Segundo Trimestre (2AV)**
-- 🌱 [Unidade 6: Ῥίζαι τῶν λόγων](UNIDADES/2AV/6/index.md)
-- 🏛️ [Unidade 7: Πόλις καὶ λόγος](UNIDADES/2AV/7/index.md)
-- 🏗️ [Unidade 8: Οἰκοδομοῦμεν πόλεις](UNIDADES/2AV/8/index.md)
-- 🎭 [Unidade 9: Ἡ σκηνὴ ἀνοίγεται](UNIDADES/2AV/9/index.md)
-- 🏆 [Unidade 10: Ἀγὼν καὶ παιδεία](UNIDADES/2AV/10/index.md)
+- 🏛️ [Unidade 6: A polis por dentro](UNIDADES/2AV/6/index.md)
+- ⚖️ [Unidade 7: Poder dicir](UNIDADES/2AV/7/index.md)
+- 🗡️ [Unidade 8: O combate e a palabra](UNIDADES/2AV/8/index.md)
+- 📆 [Unidade 9: Os corpos e os días](UNIDADES/2AV/9/index.md)
+- 🕯️ [Unidade 10: Ritos, mitos e comunidades](UNIDADES/2AV/10/index.md)
 
 ### 🔹 **Terceiro Trimestre (3AV)**
-- ⚡ [Unidade 11: Μῦθοι καὶ τόποι](UNIDADES/3AV/11/index.md)
-- 🏛️ [Unidade 12: Τὸ ἀείμνηστον ἴχνος](UNIDADES/3AV/12/index.md)
-- ⚔️ [Unidade 13: Πόλεμος καὶ εἰρήνη](UNIDADES/3AV/13/index.md)
-- 🗣️ [Unidade 14: Λόγος ἐν τῇ πόλει](UNIDADES/3AV/14/index.md)
-- 🌍 [Unidade 15: Ἡ ἐπίδρασις τοῦ Ἑλληνικοῦ κόσμου](UNIDADES/3AV/15/index.md)
+- 🧠 [Unidade 11: A palabra feita mundo](UNIDADES/3AV/11/index.md)
+- 📝 [Unidade 12: *Verba manent*](UNIDADES/3AV/12/index.md)
+- 🎨 [Unidade 13: Formas visíbeis do divino](UNIDADES/3AV/13/index.md)
+- 🧾 [Unidade 14: Saber ser](UNIDADES/3AV/14/index.md)
+- 🔮 [Unidade 15: Sementes do futuro](UNIDADES/3AV/15/index.md)
 
 ---
 
 ## 📂 Material Complementario
+
 Ademais dos contidos das unidades, tamén tes acceso a materiais extra:
 
 📌 [📂 Recursos adicionais](UNIDADES/EXTRA/index.md)  
@@ -51,352 +52,311 @@ Espero que este espazo che axude a mellorar o teu coñecemento do grego e da cul
 
 📌 *Se tes dúbidas ou suxestións, podes deixar un comentario ou contactar co profesor.*  
 
-
-----
-
-# **📅 CRONOGRAMA DO CURSO DE GREGO I (2025-2026)**  
-
-| **Semana** | **Datas**                | **Contidos**                      | **Observacións** |
-|------------|--------------------------|------------------------------------|------------------|
-| **1**  | 10/09 - 13/09  | Introdución ao curso, fonética básica  | Presentación, normas e materiais |
-| **2**  | 16/09 - 20/09  | Unidade 1 – Alfabeto e evolución da escritura | Primeiras prácticas de lectura e escritura |
-| **3**  | 23/09 - 27/09  | Unidade 1 – Prosodia e primeiros casos nominais | Actividades de recoñecemento e lectura |
-| **4**  | 30/09 - 04/10  | Unidade 1 – Tradución de frases sinxelas | Exercicios de reforzo |
-| **5**  | 07/10 - 11/10  | Unidade 2 – O verbo en presente e o artigo | Introdución ás funcións do artigo |
-| **6**  | 14/10 - 18/10  | Unidade 2 – A estrutura da πόλις | Prácticas con textos adaptados |
-| **7**  | 21/10 - 25/10  | Unidade 2 – Traducións sinxelas sobre a cidade | Reflexión sobre a democracia ateniense |
-| **8**  | 28/10 - 01/11  | Unidade 3 – Presente de indicativo completo | Introdución ao imperativo |
-| **9**  | 04/11 - 08/11  | Unidade 3 – O sistema casual | Práctica coa concordancia nominal |
-| **10** | 11/11 - 15/11  | **1º EXAME PARCIAL** (Unidades 1-3) | Avaliación escrita |
-| **11** | 18/11 - 22/11  | Unidade 4 – Primeira e segunda declinación | Introdución á sintaxe básica |
-| **12** | 25/11 - 29/11  | Unidade 4 – O papel da muller en Atenas e Esparta | Comparación con outras culturas |
-| **13** | 02/12 - 06/12  | Unidade 5 – Pronomes persoais e verbos contractos | Exercicios de tradución |
-| **14** | 09/12 - 13/12  | Unidade 5 – Relación entre humanos e animais | Lectura e tradución de Esopo |
-| **15** | 16/12 - 19/12  | **EXAME FINAL DO 1º TRIMESTRE** (Unidades 1-5) | Última sesións de repaso |
-| **16** | 08/01 - 11/01  | Unidade 6 – Participios de presente e formación léxica | Estudo de prefixos e sufixos |
-| **17** | 13/01 - 17/01  | Unidade 6 – Léxico científico e técnico | Análise de neoloxismos modernos |
-| **18** | 20/01 - 24/01  | Unidade 7 – Terceira declinación e pronomes interrogativos | Lectura de textos políticos |
-| **19** | 27/01 - 31/01  | Unidade 7 – Democracia ateniense e oratoria | Traballo sobre Tucídides |
-| **20** | 03/02 - 07/02  | **1º EXAME PARCIAL** (Unidades 6-7) | Avaliación escrita |
-| **21** | 10/02 - 14/02  | Unidade 8 – Verbos en voz media e xenitivo | Aplicación á tradución |
-| **22** | 17/02 - 21/02  | **ENTROIDO** (16, 17 e 18 de febreiro) | Semana máis curta |
-| **23** | 24/02 - 28/02  | Unidade 8 – Urbanismo e arquitectura | Pausanias e a súa obra |
-| **24** | 03/03 - 07/03  | Unidade 9 – Participios pasados e discurso indirecto | Traballo práctico con textos |
-| **25** | 10/03 - 14/03  | Unidade 9 – O teatro grego e os seus festivais | Análise de fragmentos de traxedia |
-| **26** | 17/03 - 21/03  | Unidade 10 – Imperfecto e infinitivo | Revisión de tempos verbais |
-| **27** | 24/03 - 28/03  | Unidade 10 – Educación e competicións deportivas | Análise de textos sobre os Xogos Olímpicos |
-| **28** | 31/03 - 04/04  | **EXAME FINAL DO 2º TRIMESTRE** (Unidades 6-10) | Última sesións de repaso |
-| **29** | 14/04 - 18/04  | Unidade 11 – Aoristo e pronome relativo | Introdución á sintaxe de narracións |
-| **30** | 21/04 - 25/04  | Unidade 11 – Mitoloxía e xeografía | Traballo sobre Apolodoro |
-| **31** | 28/04 - 02/05  | Unidade 12 – Aoristo primeiro e voz pasiva | Comparación con o presente e imperfecto |
-| **32** | 05/05 - 09/05  | Unidade 12 – A filosofía grega e a súa influencia | Análise de fragmentos de Heráclito |
-| **33** | 12/05 - 16/05  | Unidade 13 – Oracións de relativo e comparativos | Lectura de textos históricos |
-| **34** | 19/05 - 23/05  | Unidade 13 – Guerra e paz na Grecia antiga | Análise de Tucídides e Xenofonte |
-| **35** | 26/05 - 30/05  | **1º EXAME PARCIAL** (Unidades 11-13) | Avaliación escrita |
-| **36** | 02/06 - 06/06  | Unidade 14 – Subordinadas e discurso indirecto | Análise de Isócrates e Demóstenes |
-| **37** | 09/06 - 13/06  | Unidade 15 – Futuro e evolución da lingua grega | Aplicación á lectura de textos filosóficos |
-| **38** | 16/06 - 19/06  | **EXAME FINAL DO 3º TRIMESTRE** (Unidades 11-15) | Última sesións de repaso |
+### 1. **A pedra angular**  (8 sesións)
+1. A orixe da lingua grega  
+2. A creación do alfabeto grego  
+3. Os signos ortográficos  
+4. Nocións de morfoloxía e sintaxe  
+5. A transcrición dos nomes propios  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**: —  
 
 ---
 
-**📌 Observacións xerais:**
+### 2. **Nomear o mundo, ordenar o caos** (8 sesións)
+1. A orixe do mundo  
+2. Adxectivos femininos da 1ª declinación  
+3. O presente do verbo εἰμί, ‘ser’  
+4. As funcións dos casos  
+5. A coordinación  
+6. A tradución dos textos  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/1* → Ο ΔΙΚΑΙΟΠΟΛΙΣ (α), Ο ΔΙΚΑΙΟΠΟΛΙΣ (β)  
 
-- **Os exames finais de trimestre cubrirán as cinco unidades do trimestre.**
-- **Os exames parciais cobren dúas unidades e permiten un seguimento progresivo.**
-- **Os traballos e proxectos serán distribuídos equitativamente ao longo do curso, asegurando tempo suficiente para a súa elaboración.**
-- **As sesións de repaso e reforzo estarán incluídas antes de cada exame.**
-
-# **📌 PRIMEIRO TRIMESTRE (10 de setembro - 19 de decembro)**
-👉 **Obxectivo xeral:** Construír as bases do grego antigo, traballando **alfabeto, flexión nominal inicial, os verbos máis básicos e primeiras estruturas sintácticas.**  
-
-| **Semana** | **Datas**                | **Contidos**                      | **Observacións** |
-|------------|--------------------------|------------------------------------|------------------|
-| **1**  | 10/09 - 13/09  | Introdución ao curso, fonética básica  | Presentación, normas e materiais |
-| **2**  | 16/09 - 20/09  | Unidade 1 – Alfabeto e evolución da escritura | Primeiras prácticas de lectura e escritura |
-| **3**  | 23/09 - 27/09  | Unidade 1 – Prosodia e primeiros casos nominais | Actividades de recoñecemento e lectura |
-| **4**  | 30/09 - 04/10  | Unidade 1 – Tradución de frases sinxelas | Exercicios de reforzo |
-| **5**  | 07/10 - 11/10  | Unidade 2 – O verbo en presente e o artigo | Introdución ás funcións do artigo |
-| **6**  | 14/10 - 18/10  | Unidade 2 – A estrutura da πόλις | Prácticas con textos adaptados |
-| **7**  | 21/10 - 25/10  | Unidade 2 – Traducións sinxelas sobre a cidade | Reflexión sobre a democracia ateniense |
-| **8**  | 28/10 - 01/11  | Unidade 3 – Presente de indicativo completo | Introdución ao imperativo |
-| **9**  | 04/11 - 08/11  | Unidade 3 – O sistema casual | Práctica coa concordancia nominal |
-| **10** | 11/11 - 15/11  | **1º EXAME PARCIAL** (Unidades 1-3) | Avaliación escrita |
-| **11** | 18/11 - 22/11  | Unidade 4 – Primeira e segunda declinación | Introdución á sintaxe básica |
-| **12** | 25/11 - 29/11  | Unidade 4 – O papel da muller en Atenas e Esparta | Comparación con outras culturas |
-| **13** | 02/12 - 06/12  | Unidade 5 – Pronomes persoais e verbos contractos | Exercicios de tradución |
-| **14** | 09/12 - 13/12  | Unidade 5 – Relación entre humanos e animais | Lectura e tradución de Esopo |
-| **15** | 16/12 - 19/12  | **EXAME FINAL DO 1º TRIMESTRE** (Unidades 1-5) | Última sesións de repaso |
+Posíbel Xénese? Nomeando as cousas.
 
 ---
 
-## **🔹 UNIDADE 1: Ἐν ἀρχῇ (No principio)**
-- **Contidos lingüísticos:** Alfabeto grego, prosodia, signos gráficos, noción de flexión, nominativo e acusativo singular, orde das palabras.  
-- **Contidos culturais:** Os primeiros sistemas de escritura (Lineal B, alfabeto fenicio), oralidade e épica.  
-- **Léxico:** A casa e a familia.  
-- **Suxestións de textos:** *Evanxeo de Xoán (adaptado)*, *ὁ Δικαιόπολις γεωργός ἐστιν*.  
-- **Obxectivos:** OBX1, OBX2.  
-- **Criterios de avaliación:** CA1.1, CA1.4, CA2.1.  
-- **Avaliación:** Exercicio de transcrición do alfabeto + exame parcial.  
+### 3. **Ubi sunt?**  (8 sesións)
+1. Descrición xeográfica de Grecia  
+2. A segunda declinación  
+3. Adxectivos 2-1-2  
+4. O verbo. O presente de indicativo  
+5. O complemento circunstancial  
+6. A tradución do verbo  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/1* → Ο ΟΙΚΟΣ, Ο ΚΛΗΡΟΣ  
+  - 📁 *1AV/2* → Ο ΞΑΝΘΙΑΣ (α)  
 
 ---
 
-## **🔹 UNIDADE 2: Πόλις καὶ λόγος (A cidade e a palabra)**
-- **Contidos lingüísticos:** Presente de indicativo (3ª persoa), artigo definido en nominativo e acusativo, primeiros adxectivos, primeira declinación.  
-- **Contidos culturais:** Estrutura da *πόλις*, comparación Atenas/Esparta.  
-- **Léxico:** A cidade.  
-- **Suxestións de textos:** *ὁ Ξανθίας δοῦλος ἐστιν* (descrición da vida dun escravo).  
-- **Obxectivos:** OBX1, OBX3.  
-- **Criterios de avaliación:** CA1.4, CA3.1.  
-- **Avaliación:** Exercicio de tradución + exame parcial.  
+### 4. **Do tempo primeiro**  (8 sesións)
+1. Os períodos primitivo, arcaico e clásico  
+2. A 1ª e a 2ª declinación. Particularidades  
+3. Adxectivos 2-2  
+4. Os adverbios  
+5. A tradución do suxeito  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/2* → Ο ΞΑΝΘΙΑΣ (β), ΜΕΤΑ ΜΕΣΗΜΒΡΙΑΝ, Ο ΔΟΥΛΟΣ  
 
 ---
 
-## **🔹 UNIDADE 3: Σχήμα καὶ δομή (Forma e estrutura)**
-- **Contidos lingüísticos:** Presente de indicativo (todas as persoas), artigo en plural, segunda declinación, funcións básicas dos casos.  
-- **Contidos culturais:** Agricultura en Grecia, concepto de propiedade.  
-- **Léxico:** O campo e o traballo.  
-- **Suxestións de textos:** *οἱ γεωργοί ἐργάζονται* (o traballo e a comunidade).  
-- **Obxectivos:** OBX1, OBX4.  
-- **Criterios de avaliación:** CA1.4, CA3.1.  
-- **Avaliación:** Pequeno comentario sobre un texto grego.  
+### 5. **Παντα ρεῖ: cando o tempo cambia de nome**  (8 sesións)
+1. O período helenístico  
+2. A terceira declinación. Temas en oclusiva  
+3. O infinitivo de presente  
+4. O dativo posesor  
+5. A tradución do atributo  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/3* → Ο ΑΡΟΤΟΣ (α), Ο ΑΡΟΤΟΣ (β), ΟΙ ΓΕΩΡΓΟΙ ΚΑΙ ΤΑ ΔΕΝΔΡΑ, ΟΙ ΒΟΕΣ  
+- **Repaso trimestral**  
 
 ---
 
-## **🔹 UNIDADE 4: Γυναῖκες καὶ θεοί (Mulleres e deuses)**
-- **Contidos lingüísticos:** Adxectivos 2-1-2, posesivos, pronomes persoais básicos.  
-- **Contidos culturais:** O papel das mulleres na sociedade grega.  
-- **Léxico:** Vocabulario doméstico e relixioso.  
-- **Suxestións de textos:** Adaptación dun diálogo doméstico.  
-- **Obxectivos:** OBX1, OBX3.  
-- **Criterios de avaliación:** CA1.4, CA3.1.  
-- **Avaliación:** Exame do primeiro trimestre.  
+### 6. **A polis por dentro**  (8 sesións)
+1. Atenas e a organización social  
+2. A terceira declinación. Temas en líquida  
+3. A terceira declinación. Temas en nasal  
+4. O adxectivo-pronome interrogativo-indefinido  
+5. A tradución do complemento directo  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/4* → ΠΡΟΣ ΤΗΙ ΚΡΗΝΗΙ (α), Η ΔΕΣΠΟΙΙΝΑ ΚΑΙ Η ΔΟΥΛΗ, ΠΡΟΣ ΤΗΙ ΚΡΗΝΗΙ (β)  
 
 ---
 
-## **🔹 UNIDADE 5: Γλῶττα ἐν δράσει (A lingua en acción)**
-- **Contidos lingüísticos:** Estratexias de tradución básicas, primeiras combinacións verbais, formación de palabras.  
-- **Contidos culturais:** A relación entre humanos e animais, fábulas.  
-- **Léxico:** Animais domésticos.  
-- **Suxestións de textos:** *ὁ λύκος καὶ ὁ κύων* (Esopo).  
-- **Obxectivos:** OBX1, OBX2.  
-- **Criterios de avaliación:** CA1.6, CA2.1.  
-- **Avaliación:** Exercicio de tradución en grupo.  
-
-## Actividades
-
-### ✅ 1. Exercicio de transcrición do alfabeto e prosodia
-- 📌 Obxectivo: Recoñecer o alfabeto grego e a súa evolución, aplicar regras de prosodia básicas.
-- 📝 Formato: Creación dunha ficha con transcricións en grego e análise de prosodia en palabras e frases curtas.
-- 🎯 Instrumento: Lista de cotexo de corrección.
-
-### ✅ 2. Creación dunha representación visual da πόλις
-- 📌 Obxectivo: Comprender a estrutura urbana de Atenas/Esparta e o vocabulario relacionado coa cidade.
-- 📝 Formato: Ilustración ou esquema da πόλις con etiquetas en grego (pode ser feito a man ou en dixital).
-- 🎯 Instrumento: Lista de cotexo de terminoloxía e rúbrica de presentación gráfica.
-
-### ✅ 3. Corrección dun exame de tradución feito polo profesor
-- 📌 Obxectivo: Reflexionar sobre os erros habituais na tradución, recoñecer estruturas básicas.
-- 📝 Formato: O alumnado recibe unha tradución errónea (feita por ti con erros intencionados) e debe corrixila, explicando os cambios.
-- 🎯 Instrumento: Rúbrica de análise de erros en tradución.
-
-### ✅ 4. Peza xornalística sobre un episodio histórico grego
-- 📌 Obxectivo: Aplicar léxico político e cultural, narrar feitos históricos en clave xornalística.
-- 📝 Formato: Redacción dunha "noticia" sobre un evento como a reforma de Clístenes ou a Revolta Jónica.
-- 🎯 Instrumento: Rúbrica de escritura argumentativa.
+### 7. **Poder dicir**  
+1. As institucións políticas e xudiciais  
+2. A terceira declinación. Temas en -ντ  
+3. O participio de presente  
+4. A tradución do dativo  
+- Pegadas helenas  
+- Traballa cos textos  
+- Aplica o aprendido  
+- **Textos**:  
+  - 📁 *1AV/4* → Η ΜΕΛΙΤΤΑ ΚΑΙ ΑΙ ΦΙΛΑΙ, ΑΙ ΓΥΝΑΙΚΕΣ ΤΟΥΣ ΑΝΔΡΑΣ ΠΕΙΘΟΥΣΙΝ  
 
 ---
 
-# **📌 SEGUNDO TRIMESTRE (8 de xaneiro - 4 de abril)**
-
-👉 **Obxectivo xeral:** Introducir máis complexidade na morfoloxía verbal e nominal, traballar os **participios e avanzar en sintaxe.**  
-
-| **Semana** | **Datas**                | **Contidos**                     | **Observacións** |
-|------------|--------------------------|----------------------------------|------------------|
-| **16** | 08/01 - 11/01  | Unidade 6 – Participios de presente e formación léxica | Estudo de prefixos e sufixos |
-| **17** | 13/01 - 17/01  | Unidade 6 – Léxico científico e técnico | Análise de neoloxismos modernos |
-| **18** | 20/01 - 24/01  | Unidade 7 – Terceira declinación e pronomes interrogativos | Lectura de textos políticos |
-| **19** | 27/01 - 31/01  | Unidade 7 – Democracia ateniense e oratoria | Traballo sobre Tucídides |
-| **20** | 03/02 - 07/02  | **1º EXAME PARCIAL** (Unidades 6-7) | Avaliación escrita |
-| **21** | 10/02 - 14/02  | Unidade 8 – Verbos en voz media e xenitivo | Aplicación á tradución |
-| **22** | 17/02 - 21/02  | **ENTROIDO** (16, 17 e 18 de febreiro) | Semana máis curta |
-| **23** | 24/02 - 28/02  | Unidade 8 – Urbanismo e arquitectura | Pausanias e a súa obra |
-| **24** | 03/03 - 07/03  | Unidade 9 – Participios pasados e discurso indirecto | Traballo práctico con textos |
-| **25** | 10/03 - 14/03  | Unidade 9 – O teatro grego e os seus festivais | Análise de fragmentos de traxedia |
-| **26** | 17/03 - 21/03  | Unidade 10 – Imperfecto e infinitivo | Revisión de tempos verbais |
-| **27** | 24/03 - 28/03  | Unidade 10 – Educación e competicións deportivas | Análise de textos sobre os Xogos Olímpicos |
-| **28** | 31/03 - 04/04  | **EXAME FINAL DO 2º TRIMESTRE** (Unidades 6-10) | Última sesións de repaso |
+### 8. **O combate e a palabra**  (8 sesións)
+1. Os exércitos de Atenas e Esparta  
+2. A contracción vocálica  
+3. A terceira declinación. Temas en silbante  
+4. Os verbos contractos  
+5. O participio absoluto  
+6. A tradución do xenitivo  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/5* → ΑΙ ΚΟΡΑΙ ΤΑ ΠΡΟΒΑΤΑ ΟΡΩΣΙΝ, Ο ΛΥΚΟΣ (α), Ο ΛΥΚΟΣ (β)  
 
 ---
 
-## **🔹 UNIDADE 6: Ρίζαι τῶν λόγων (As raíces das palabras)**
-- **Contidos lingüísticos:** Verbos contractos (-αω, -εω, -οω), dativo con verbos de beneficio.  
-- **Contidos culturais:** O grego como lingua científica.  
-- **Léxico:** Léxico técnico e científico.  
-- **Obxectivos:** OBX1, OBX2.  
-- **Criterios de avaliación:** CA1.2, CA2.1.  
-- **Avaliación:** Exercicio de formación de palabras.  
+### 9. **Os corpos e os días** (8 sesións) 
+1. Sociedade, educación e ocio  
+2. A terceira declinación. Temas en vogal e en ditongo  
+3. A voz media e a voz pasiva  
+4. A tradución do complemento circunstancial  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *1AV/5* → Ο ΔΟΥΛΟΣ ΤΟΝ ΚΥΝΑ ΟΥ ΦΙΛΕΙ, Ο ΑΡΓΟΣ ΤΑ ΠΡΟΒΑΤΑ ΣΩΙΖΕΙ  
+  - 📁 *2AV/6* → Ο ΜΥΘΟΣ (α), Ο ΔΙΚΑΙΟΠΟΛΙΣ ΑΓΑΝΑΚΤΕΙ  
 
 ---
 
-## **🔹 UNIDADE 7: Λόγος καὶ ἀγών (Discurso e debate)**
-- **Contidos lingüísticos:** Terceira declinación, pronomes interrogativos, conxuncións básicas.  
-- **Contidos culturais:** Democracia ateniense, oratoria.  
-- **Léxico:** Política e vida pública.  
-- **Obxectivos:** OBX1, OBX3.  
-- **Criterios de avaliación:** CA1.6, CA3.2.  
-- **Avaliación:** Exame parcial.  
+### 10. **Ritos, mitos e comunidades**  (8 sesións)
+1. Mitos, ritos e divindades  
+2. O pretérito imperfecto  
+3. O relativo  
+4. A tradución do antecedente  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *2AV/6* → Ο ΜΥΘΟΣ (β), Ο ΘΗΣΕΥΣ ΤΗΝ ΑΡΙΑΔΝΗΝ ΚΑΤΑΛΕΙΠΕΙ  
+  - 📁 *2AV/7* → Ο ΚΥΚΛΩΨ (α)  
+- **Repaso trimestral**  
 
 ---
 
-## **🔹 UNIDADE 8: Οἰκοδομοῦμεν πόλεις (Construímos cidades)**
-- **Contidos lingüísticos:** Participios de presente, usos do xenitivo.  
-- **Contidos culturais:** Urbanismo grego.  
-- **Léxico:** Arquitectura.  
-- **Obxectivos:** OBX3, OBX5.  
-- **Criterios de avaliación:** CA3.1, CA4.3.  
-- **Avaliación:** Exercicio práctico sobre traducións.  
+### 11. **A palabra feita mundo**  (8 sesións)
+1. Filosofía e ciencia  
+2. O aoristo de indicativo  
+3. Sintaxe do infinitivo  
+4. A tradución das oracións coordinadas  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *2AV/7* → Ο ΚΥΚΛΩΨ (β), ΤΟ ΤΟΥ ΜΥΘΟΥ ΤΕΛΟΣ, Ο ΤΟΥ ΘΗΣΕΩΣ ΠΑΤΗΡ ΑΠΟΘΝΗΙΣΚΕΙ  
+  - 📁 *2AV/10* → ΟΙ ΑΓΑΘΟΙ ΠΟΛΙΤΑΙ  
 
 ---
 
-## **🔹 UNIDADE 9: Σκηνή καὶ θέατρον (Escenario e teatro)**
-- **Contidos lingüísticos:** Participios pasados, infinitivo con acusativo.  
-- **Contidos culturais:** Teatro grego.  
-- **Léxico:** Léxico teatral.  
-- **Obxectivos:** OBX3, OBX5.  
-- **Criterios de avaliación:** CA3.1, CA4.3.  
-- **Avaliación:** Exame de trimestre.  
-
-## **🔹 UNIDADE 10: Παλαίστρα καὶ Μουσεῖον (Palestra e Museo)**
-- **Contidos lingüísticos:** O imperfecto, sintaxe do infinitivo.  
-- **Contidos culturais:** Educación en Atenas e Esparta.  
-- **Léxico:** Deporte e educación.  
-- **Obxectivos:** OBX3, OBX4.  
-- **Criterios de avaliación:** CA3.1, CA4.1.  
-
-## Actividades
-
-### ✅ **5. Creación dun pequeno glosario de neoloxismos científicos**  
-- 📌 **Obxectivo:** Analizar a pegada do grego no léxico técnico moderno.  
-- 📝 **Formato:** Cada estudante investiga 10 palabras científicas con raíz grega e explica a súa orixe.  
-- 🎯 **Instrumento:** Lista de cotexo e rúbrica de presentación escrita.
-
-### ✅ **6. Pequeno discurso inspirado na oratoria clásica**  
-- 📌 **Obxectivo:** Aplicar fórmulas retóricas gregas e analizar a oratoria antiga.  
-- 📝 **Formato:** Un discurso breve defendendo unha idea, empregando estructuras de Isócrates ou Demóstenes.  
-- 🎯 **Instrumento:** Rúbrica de expresión oral.
-
-### ✅ **7. Análise dunha escena de teatro grego**  
-- 📌 **Obxectivo:** Comprender a estrutura dramática, analizar o papel do coro e a súa linguaxe.  
-- 📝 **Formato:** Presentación oral sobre un fragmento de *Antígona* ou *Lisístrata*.  
-- 🎯 **Instrumento:** Rúbrica de exposición oral e rúbrica de análise textual.
-
-### ✅ **8. Pequeña reconstrución dun fragmento arquitectónico grego**  
-- 📌 **Obxectivo:** Relacionar elementos arquitectónicos con termos en grego e os seus significados.  
-- 📝 **Formato:** Esquema gráfico con anotacións en grego sobre arquitectura grega.  
-- 🎯 **Instrumento:** Lista de cotexo e rúbrica de presentación visual.
+### 12. **Verba manent**  
+1. Literatura. Xéneros e autores  
+2. O aoristo radical temático  
+3. Pronomes demostrativos e pronomes  
+4. A tradución das oracións completivas  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *2AV/8* → ΠΡΟΣ ΤΟ ΑΣΤΥ (α), ΟΙ ΘΕΟΙ ΤΟΥΣ ΕΡΓΑΖΟΜΕΝΟΥΣ ΦΙΛΟΥΣΙΝ, ΠΡΟΣ ΤΟ ΑΣΤΥ (β)  
 
 ---
 
-
-# **📌 TERCEIRO TRIMESTRE (14 de abril - 19 de xuño)**
-👉 **Obxectivo xeral:**  
-- Consolidar a **sintaxe complexa** (subordinadas, infinitivos e participios).  
-- Introducir **conceptos filosóficos, históricos e evolutivos da lingua grega**.  
-- Explorar a **herdanza cultural do mundo grego e o seu impacto na sociedade actual**.  
-
-| **Semana** | **Datas**                | **Contidos**                      | **Observacións** |
-|------------|--------------------------|----------------------------------|------------------|
-| **29** | 14/04 - 18/04  | Unidade 11 – Aoristo e pronome relativo | Introdución á sintaxe de narracións |
-| **30** | 21/04 - 25/04  | Unidade 11 – Mitoloxía e xeografía | Traballo sobre Apolodoro |
-| **31** | 28/04 - 02/05  | Unidade 12 – Aoristo primeiro e voz pasiva | Comparación con o presente e imperfecto |
-| **32** | 05/05 - 09/05  | Unidade 12 – A filosofía grega e a súa influencia | Análise de fragmentos de Heráclito |
-| **33** | 12/05 - 16/05  | Unidade 13 – Oracións de relativo e comparativos | Lectura de textos históricos |
-| **34** | 19/05 - 23/05  | Unidade 13 – Guerra e paz na Grecia antiga | Análise de Tucídides e Xenofonte |
-| **35** | 26/05 - 30/05  | **1º EXAME PARCIAL** (Unidades 11-13) | Avaliación escrita |
-| **36** | 02/06 - 06/06  | Unidade 14 – Subordinadas e discurso indirecto | Análise de Isócrates e Demóstenes |
-| **37** | 09/06 - 13/06  | Unidade 15 – Futuro e evolución da lingua grega | Aplicación á lectura de textos filosóficos |
-| **38** | 16/06 - 19/06  | **EXAME FINAL DO 3º TRIMESTRE** (Unidades 11-15) | Última sesións de repaso |
+### 13. **Formas visíbeis do divino**  (8 sesións)
+1. O sentido estético e a creación artística  
+2. O futuro de indicativo  
+3. Os graos de comparación do adxectivo  
+4. A tradución da negación  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *2AV/9* → Η ΠΑΝΗΓΥΡΙΣ (α), Η ΠΑΝΗΓΥΡΙΣ (β), ΤΟ ΤΗΣ ΜΕΛΙΤΤΗΣ ΟΝΑΡ  
 
 ---
 
-## **🔹 UNIDADE 11: Μῦθοι καὶ τόποι (Mitos e lugares)**  
-- **Contidos lingüísticos:** O aoristo segundo, participios do aoristo, pronome relativo (*ὅς, ἥ, ὅ*), comparación de tempos verbais.  
-- **Contidos culturais:** A mitoloxía como explicación do mundo, relación entre mitos e xeografía da Grecia antiga.  
-- **Léxico:** Nomes de deuses e heroes, vocabulario mitolóxico e xeográfico.  
-- **Suxestións de textos:** *Apolodoro, Biblioteca mitolóxica* (fundación de Tebas); *Homero, Odisea* (episodio de Polifemo).  
-- **Obxectivos:** OBX3, OBX5.  
-- **Criterios de avaliación:** CA3.1, CA4.4.  
-- **Avaliación:** Pequena investigación sobre un mito e a súa evolución na cultura posterior.  
+### 14. **Saber ser**  (8 sesións)
+1. A educación en Atenas e Esparta  
+2. O papel da *paideia* na formación cidadá  
+3. O discurso público e a retórica  
+4. Modelos de sabedoría e transmisión do coñecemento  
+5. Comparación con sistemas educativos actuais  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *3AV/11* → Ο ΙΑΤΡΟΣ (α), Ο ΙΑΤΡΟΣ (β), Ο ΔΗΜΟΚΗΔΗΣ ΤΟΝ ΒΑΣΙΛΕΑ ΙΑΤΡΕΥΕΙ  
 
 ---
 
-## **🔹 UNIDADE 12: Τὸ ἀείμνηστον ἴχνος (A pegada eterna)**  
-- **Contidos lingüísticos:** O aoristo primeiro, o imperfecto de *εἰμί*, uso narrativo do aoristo, introdución á voz pasiva.  
-- **Contidos culturais:** A filosofía grega e a súa influencia na cultura occidental, escolas filosóficas.  
-- **Léxico:** Léxico filosófico e literario.  
-- **Suxestións de textos:** *Heráclito, fragmentos sobre o cambio e o logos*; *Platón, Apoloxía de Sócrates* (adaptado).  
-- **Obxectivos:** OBX3, OBX5.  
-- **Criterios de avaliación:** CA3.2, CA4.5.  
-- **Avaliación:** Comparación de fragmentos filosóficos e exercicio de interpretación.  
+### 15. **Sementes do futuro**  (8 sesións)
+1. A mitoloxía clásica como patrimonio  
+2. Etimoloxía e nomes míticos no presente  
+3. Lexemas gregos nas ciencias actuais  
+4. Neoloxismos e creación léxica  
+5. A mitoloxía na publicidade e cultura popular  
+- Traballa cos textos  
+- Aplica o aprendido  
+- Pegadas helenas  
+- **Textos**:  
+  - 📁 *2AV/10* → Ο ΟΔΥΣΣΕΥΣ ΤΟΥΣ ΕΤΑΙΡΟΥΣ ΑΠΟΛΛΥΣΕΙΝ  
+  - 📁 *2AV/9* → Ο ΟΔΥΣΣΕΥΣ ΚΑΙ Η ΚΙΡΚΗ  
+  - 📁 **Setuaxinta / NT adaptado** → e.g. *Mateo 5,3-12* ou *Lucas 15,4-7*  
+- **Repaso trimestral**  
+
+
+### 📅 **1º Trimestre (Setembro - Decembro)**
+
+| Semana | Datas               | Sesións | Contidos principais                              | Observacións                         |
+|--------|---------------------|---------|--------------------------------------------------|--------------------------------------|
+| 0      | 11-12 set           | 2       | Presentación, proba inicial                      | Comezo oficial                       |
+| 1      | 15-19 set           | 4       | **UD1 – A pedra angular** (1/2)                  |                                      |
+| 2      | 22-26 set           | 4       | UD1 (2/2)                                        |                                      |
+| 3      | 29 set - 3 out      | 4       | **UD2 – Nomear o mundo...** (1/2)                |                                      |
+| 4      | 6-10 out            | 4       | UD2 (2/2)                                        |                                      |
+| 5      | 13-17 out           | 4       | **EXAME 1º trimestre (UD1-UD2)** + comezo UD3    | 1 sesión para exame                  |
+| 6      | 20-24 out           | 4       | **UD3 – Ubi sunt?** (2/2)                        |                                      |
+| 7      | 27-30 out           | 3       | **UD4 – Do tempo primeiro** (1/2)                | 31/10 festivo                        |
+| 8      | 3-7 nov             | 4       | UD4 (2/2)                                        |                                      |
+| 9      | 10-14 nov           | 4       | **UD5 – Πάντα ῥεῖ...** (1/2)                      |                                      |
+| 10     | 17-21 nov           | 4       | UD5 (2/2)                                        |                                      |
+| 11     | 24-28 nov           | 4       | **EXAME 2º trimestre (UD3-5)** + corrección      | Notas antes do 14/12                 |
+| 12     | 1-5 dec             | 4       | Peche de trimestre, actividades de revisión      |                                      |
+| 13     | 9-12 dec            | 4       | Actividades culturais, axustes, recuperación     |                                      |
+| 14     | 15-18 dec           | 4       | Sesións lúdicas / transversais                   | Notas xa entregadas                 |
+
+
+### 📅 **2º Trimestre (Xaneiro - Marzo)**
+
+| Semana | Datas               | Sesións | Contidos principais                              | Observacións                         |
+|--------|---------------------|---------|--------------------------------------------------|--------------------------------------|
+| 15     | 8-10 xan            | 3       | **UD6 – A polis por dentro** (1/2)               | Volta das vacacións                  |
+| 16     | 13-17 xan           | 4       | UD6 (2/2)                                        |                                      |
+| 17     | 20-24 xan           | 4       | **UD7 – Poder dicir** (1/2)                      |                                      |
+| 18     | 27-31 xan           | 4       | UD7 (2/2)                                        |                                      |
+| 19     | 3-7 feb             | 4       | **EXAME 1 2º trimestre (UD6-7)** + comezo UD8    | 1 sesión para exame                  |
+| 20     | 10-13 feb           | 3       | **UD8 – O combate e a palabra** (1/2)            | Venres 14 non hai clase              |
+| 21     | 19-21 feb           | 2       | UD8 (2/2)                                        | Semana reducida por Entroido        |
+| 22     | 24-28 feb           | 4       | **UD9 – Os corpos e os días** (1/2)              |                                      |
+| 23     | 3-7 mar             | 4       | UD9 (2/2)                                        |                                      |
+| 24     | 10-14 mar           | 4       | **UD10 – Ritos, mitos e comunidades** (1/2)      |                                      |
+| 25     | 17-21 mar           | 4       | UD10 (2/2)                                       | 24-25: entrega de notas              |
+| 26     | 24-26 mar           | 2-3     | **EXAME 2º trimestre (UD8-10)** + corrección     | Avaliación 24-25                    |
 
 ---
 
-## **🔹 UNIDADE 13: Πόλεμος καὶ εἰρήνη (Guerra e paz)**  
-- **Contidos lingüísticos:** O pronome relativo e as oracións de relativo, os demostrativos (*οὗτος, ἐκεῖνος*), comparativos e superlativos, xenitivo absoluto.  
-- **Contidos culturais:** As guerras médicas, a visión da guerra en Homero e Tucídides.  
-- **Léxico:** Léxico militar e bélico, palabras relacionadas coa paz e a diplomacia.  
-- **Suxestións de textos:** *Tucídides, Historia da Guerra do Peloponeso* (adaptado); *Xenofonte, Helénicas* (adaptado).  
-- **Obxectivos:** OBX3, OBX4.  
-- **Criterios de avaliación:** CA3.1, CA4.1.  
-- **Avaliación:** Exame parcial do terceiro trimestre.  
+### 📅 **3º Trimestre (Abril - Xuño)**
 
----
+| Semana | Datas               | Sesións | Contidos principais                              | Observacións                         |
+|--------|---------------------|---------|--------------------------------------------------|--------------------------------------|
+| 27     | 7-11 abr            | 4       | **UD11 – A palabra feita mundo** (1/2)           | Volta Semana Santa                  |
+| 28     | 14-18 abr           | 4       | UD11 (2/2)                                       |                                      |
+| 29     | 21-25 abr           | 4       | **UD12 – Verba manent** (1/2)                    |                                      |
+| 30     | 28-30 abr           | 3       | UD12 (2/2)                                       | 1 maio festivo                       |
+| 31     | 5-9 maio            | 4       | **EXAME 1 3º trimestre (UD11-12)** + comezo UD13 |                                      |
+| 32     | 12-16 maio          | 4       | **UD13 – Formas visíbeis do divino** (2/2)       |                                      |
+| 33     | 19-23 maio          | 4       | **UD14 – Saber ser** (1/2)                       |                                      |
+| 34     | 26-30 maio          | 4       | UD14 (2/2)                                       |                                      |
+| 35     | 2-6 xuño            | 4       | **UD15 – Sementes do futuro** (1/2)              |                                      |
+| 36     | 9-13 xuño           | 4       | UD15 (2/2)                                       |                                      |
+| 37     | 16-17 xuño          | 2       | **EXAME FINAL (UD13-15)**                        | Avaliación final 17/06               |
 
-## **🔹 UNIDADE 14: Λόγος ἐν τῇ πόλει (O discurso na cidade)**  
-- **Contidos lingüísticos:** Sintaxe da oración subordinada, construcións con *ὅτι* e *ὡς*, o verbo *φημί* e as súas construcións, voz media e pasiva en aoristo.  
-- **Contidos culturais:** A oratoria en Grecia: os grandes logógrafos, importancia da retórica na política ateniense.  
-- **Léxico:** Léxico relacionado coa oratoria e a política.  
-- **Suxestións de textos:** *Demóstenes, Filípicas* (adaptado); *Isócrates, Panegírico* (adaptado).  
-- **Obxectivos:** OBX3, OBX4.  
-- **Criterios de avaliación:** CA3.1, CA4.2.  
-- **Avaliación:** Pequeno discurso argumentativo inspirado na retórica clásica.  
 
----
 
-## **🔹 UNIDADE 15: Ἡ ἐπίδρασις τοῦ Ἑλληνικοῦ κόσμου (A influencia do mundo grego)**  
-- **Contidos lingüísticos:** O futuro de indicativo, sintaxe do futuro e expresión de probabilidade, evolución do grego ao longo dos séculos.  
-- **Contidos culturais:** O legado grego na cultura contemporánea, o grego como lingua da ciencia e da filosofía.  
-- **Léxico:** Léxico da arte, da ciencia e da astronomía.  
-- **Suxestións de textos:** *Aristóteles, Metafísica* (sobre o coñecemento e a verdade); *Fragmento de Hipócrates sobre a medicina* (adaptado).  
-- **Obxectivos:** OBX4, OBX5.  
-- **Criterios de avaliación:** CA4.3, CA4.6.  
-- **Avaliación:** Traballo final sobre o impacto do grego na cultura moderna.  
+### **Táboa de produtos finais + instrumentos de avaliación (versión definitiva)**
 
-## Actividades
+| **UD** | **Título**                            | **Produto final proposto**                                                                 | **Instrumento de avaliación**                    |
+|--------|----------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1      | A pedra angular                        | Ficha de transcrición + infografía sobre a orixe da lingua grega                            | Rúbrica de produto visual                        |
+| 2      | Nomear o mundo, ordenar o caos         | Mapa léxico de creación do mundo con palabras gregas clave                                  | Rúbrica de produto visual                        |
+| 3      | Ubi sunt?                              | Mapa ilustrado da Grecia antiga con topónimos e elementos culturais                         | Rúbrica de produto visual                        |
+| 4      | Do tempo primeiro                      | Liña do tempo visual dos períodos históricos gregos                                          | Lista de cotexo                            |
+| 5      | Πάντα ῥεῖ: cando o tempo cambia de nome | Entrevista ficticia a Alexandre Magno                                                       | Rúbrica de expresión escrita                                  |
+| 6      | A *polis* por dentro                   | Plano dunha polis: espazos e funcións (en grego) **[ProxectoTERRA]**                        | Escala de valoración                             |
+| 7      | Poder dicir                            | Portada de xornal sobre un proceso xudicial grego                                        | Rúbrica de produto visual               |
+| 8      | O combate e a palabra                  | Análise e reinterpretación de escenas de batalla na cerámica grega                          | Rúbrica de proxecto de investigación                  |
+| 9      | Os corpos e os días                    | Calendario ilustrado con cultivos, tarefas e festividades do ano grego                     | Rúbrica de proxecto de investigación       |
+| 10     | Ritos, mitos e comunidades             | Análise da recepción da mitoloxía na música, arte ou audiovisual actual (ex. Fillas de Cassandra) | Rúbrica de proxecto de investigación      |
+| 11     | A palabra feita mundo                  | Pódcast filosófico                                     | Rúbrica de expresión oral                       |
+| 12     | *Verba manent*                         | *Liber sententiarum*: caderno de citas gregas traducidas e ilustradas                       | Lista de cotexo                                  |
+| 13     | Formas visíbeis do divino              | Presentación/exposición oral sobre obra de arte grega                                       | Rúbrica de expresión oral	                       |
+| 14     | Saber ser                              | Carta crítica ao sistema educativo actual	 | Rúbrica de expresión escrita |
+| 15     | Sementes do futuro                     | Carta en grego como parte dun intercambio epistolar                                         | Rúbrica de tradución                             |
 
-### ✅ **9. Análise dun mito e a súa evolución na cultura moderna**  
-- 📌 **Obxectivo:** Comparar a mitoloxía antiga co seu impacto en obras modernas (cinema, literatura, etc.).  
-- 📝 **Formato:** Pequeno ensaio ou presentación sobre como un mito grego se reutilizou na cultura contemporánea.  
-- 🎯 **Instrumento:** Rúbrica de análise comparativa.
 
-### ✅ **10. Creación dunha "oración fúnebre" ao estilo de Pericles**  
-- 📌 **Obxectivo:** Reflexionar sobre a retórica e a ideoloxía ateniense.  
-- 📝 **Formato:** Pequena redacción sobre un evento real ou ficticio, con fórmulas típicas de Tucídides.  
-- 🎯 **Instrumento:** Rúbrica de escritura histórica.
+### **Instrumentos de avaliación**
 
-### ✅ **11. Investigación sobre o legado grego nun campo específico**  
-- 📌 **Obxectivo:** Reflexionar sobre a pegada do grego na sociedade actual (lingua, arte, política, ciencia).  
-- 📝 **Formato:** Traballo de investigación breve, con presentación opcional.  
-- 🎯 **Instrumento:** Rúbrica de investigación e rúbrica de presentación.
-
-### ✅ **12. Exame de tradución invertida**  
-- 📌 **Obxectivo:** Aplicar estratexias de retroversión, identificar dificultades na sintaxe grega.  
-- 📝 **Formato:** Pequeno exame onde o alumnado debe traducir unha frase do galego ao grego.  
-- 🎯 **Instrumento:** Lista de cotexo de precisión gramatical.
-
----
-
-# **Avaliación**
+| **Instrumento**                              | **Usado en** | **Observacións** |
+|----------------------------------------------|--------------|------------------|
+| **Rúbrica de produto visual**                | UD 1, 2, 3, 7 | Pódese unificar: avalía composición, presentación, uso do grego, contido, orixinalidade... |
+| **Lista de cotexo**                          | UD 4, 12     | Simples: presenza de elementos, corrección mínima, entrega. |
+| **Rúbrica de expresión escrita**             | UD 5, 14     | Avaliará claridade, argumentación, estilo, conexión co tema. |
+| **Escala de valoración (proxecto visual)**   | UD 6         | Pódese basear en 4 niveis de logro: comprensión do espazo urbano, uso do grego, estética, funcionalidade. |
+| **Rúbrica de proxecto de investigación**     | UD 8, 9, 10  | Pódese unificar: avalía estrutura, fontes, comprensión, presentación, reflexión crítica. |
+| **Rúbrica de expresión oral**                | UD 11, 13    | Unificable: avalía pronunciación, contido, claridade, estrutura, interese. |
+| **Rúbrica de tradución**                     | UD 15        | Xa a tes creada. Se non, inclúe: sentido global, corrección gramatical, precisión léxica, estilo. |
 
 🔹 **Dous exames finais:**  
 - Un sobre **contidos lingüísticos e traducións**.  
@@ -423,3 +383,69 @@ Para optimizar a avaliación, imos traballar cun **conxunto pechado de instrumen
 📌 **Outros instrumentos**
 1. **Dianas de autoavaliación** (para que o alumnado reflexione sobre os seus propios progresos).  
 2. **Corrección por pares con listas guiadas** (para mellorar a autoaprendizaxe en traducións e comentarios de texto).  
+
+
+## Actividades
+
+### ✅ 1. Exercicio de transcrición do alfabeto e prosodia
+- 📌 Obxectivo: Recoñecer o alfabeto grego e a súa evolución, aplicar regras de prosodia básicas.
+- 📝 Formato: Creación dunha ficha con transcricións en grego e análise de prosodia en palabras e frases curtas.
+- 🎯 Instrumento: Lista de cotexo de corrección.
+
+### ✅ 2. Creación dunha representación visual da πόλις
+- 📌 Obxectivo: Comprender a estrutura urbana de Atenas/Esparta e o vocabulario relacionado coa cidade.
+- 📝 Formato: Ilustración ou esquema da πόλις con etiquetas en grego (pode ser feito a man ou en dixital).
+- 🎯 Instrumento: Lista de cotexo de terminoloxía e rúbrica de presentación gráfica.
+
+### ✅ 3. Corrección dun exame de tradución feito polo profesor
+- 📌 Obxectivo: Reflexionar sobre os erros habituais na tradución, recoñecer estruturas básicas.
+- 📝 Formato: O alumnado recibe unha tradución errónea (feita por ti con erros intencionados) e debe corrixila, explicando os cambios.
+- 🎯 Instrumento: Rúbrica de análise de erros en tradución.
+
+### ✅ 4. Peza xornalística sobre un episodio histórico grego
+- 📌 Obxectivo: Aplicar léxico político e cultural, narrar feitos históricos en clave xornalística.
+- 📝 Formato: Redacción dunha "noticia" sobre un evento como a reforma de Clístenes ou a Revolta Jónica.
+- 🎯 Instrumento: Rúbrica de escritura argumentativa.
+
+### ✅ **5. Creación dun pequeno glosario de neoloxismos científicos**  
+- 📌 **Obxectivo:** Analizar a pegada do grego no léxico técnico moderno.  
+- 📝 **Formato:** Cada estudante investiga 10 palabras científicas con raíz grega e explica a súa orixe.  
+- 🎯 **Instrumento:** Lista de cotexo e rúbrica de presentación escrita.
+
+### ✅ **6. Pequeno discurso inspirado na oratoria clásica**  
+- 📌 **Obxectivo:** Aplicar fórmulas retóricas gregas e analizar a oratoria antiga.  
+- 📝 **Formato:** Un discurso breve defendendo unha idea, empregando estructuras de Isócrates ou Demóstenes.  
+- 🎯 **Instrumento:** Rúbrica de expresión oral.
+
+### ✅ **7. Análise dunha escena de teatro grego**  
+- 📌 **Obxectivo:** Comprender a estrutura dramática, analizar o papel do coro e a súa linguaxe.  
+- 📝 **Formato:** Presentación oral sobre un fragmento de *Antígona* ou *Lisístrata*.  
+- 🎯 **Instrumento:** Rúbrica de exposición oral e rúbrica de análise textual.
+
+### ✅ **8. Pequeña reconstrución dun fragmento arquitectónico grego**  
+- 📌 **Obxectivo:** Relacionar elementos arquitectónicos con termos en grego e os seus significados.  
+- 📝 **Formato:** Esquema gráfico con anotacións en grego sobre arquitectura grega.  
+- 🎯 **Instrumento:** Lista de cotexo e rúbrica de presentación visual.
+
+### ✅ **9. Análise dun mito e a súa evolución na cultura moderna**  
+- 📌 **Obxectivo:** Comparar a mitoloxía antiga co seu impacto en obras modernas (cinema, literatura, etc.).  
+- 📝 **Formato:** Pequeno ensaio ou presentación sobre como un mito grego se reutilizou na cultura contemporánea.  
+- 🎯 **Instrumento:** Rúbrica de análise comparativa.
+
+### ✅ **10. Creación dunha "oración fúnebre" ao estilo de Pericles**  
+- 📌 **Obxectivo:** Reflexionar sobre a retórica e a ideoloxía ateniense.  
+- 📝 **Formato:** Pequena redacción sobre un evento real ou ficticio, con fórmulas típicas de Tucídides.  
+- 🎯 **Instrumento:** Rúbrica de escritura histórica.
+
+### ✅ **11. Investigación sobre o legado grego nun campo específico**  
+- 📌 **Obxectivo:** Reflexionar sobre a pegada do grego na sociedade actual (lingua, arte, política, ciencia).  
+- 📝 **Formato:** Traballo de investigación breve, con presentación opcional.  
+- 🎯 **Instrumento:** Rúbrica de investigación e rúbrica de presentación.
+
+### ✅ **12. Exame de tradución invertida**  
+- 📌 **Obxectivo:** Aplicar estratexias de retroversión, identificar dificultades na sintaxe grega.  
+- 📝 **Formato:** Pequeno exame onde o alumnado debe traducir unha frase do galego ao grego.  
+- 🎯 **Instrumento:** Lista de cotexo de precisión gramatical.
+
+---
+
