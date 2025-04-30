@@ -387,22 +387,22 @@ Para optimizar a avaliación, imos traballar cun **conxunto pechado de instrumen
 
 ## Actividades
 
-### ✅ 1. Exercicio de transcrición do alfabeto e prosodia
+### ✅ **1. Exercicio de transcrición do alfabeto e prosodia**
 - 📌 Obxectivo: Recoñecer o alfabeto grego e a súa evolución, aplicar regras de prosodia básicas.
 - 📝 Formato: Creación dunha ficha con transcricións en grego e análise de prosodia en palabras e frases curtas.
 - 🎯 Instrumento: Lista de cotexo de corrección.
 
-### ✅ 2. Creación dunha representación visual da πόλις
+### ✅ **2. Creación dunha representación visual da πόλις**
 - 📌 Obxectivo: Comprender a estrutura urbana de Atenas/Esparta e o vocabulario relacionado coa cidade.
 - 📝 Formato: Ilustración ou esquema da πόλις con etiquetas en grego (pode ser feito a man ou en dixital).
 - 🎯 Instrumento: Lista de cotexo de terminoloxía e rúbrica de presentación gráfica.
 
-### ✅ 3. Corrección dun exame de tradución feito polo profesor
+### ✅ **3. Corrección dun exame de tradución feito polo profesor**
 - 📌 Obxectivo: Reflexionar sobre os erros habituais na tradución, recoñecer estruturas básicas.
 - 📝 Formato: O alumnado recibe unha tradución errónea (feita por ti con erros intencionados) e debe corrixila, explicando os cambios.
 - 🎯 Instrumento: Rúbrica de análise de erros en tradución.
 
-### ✅ 4. Peza xornalística sobre un episodio histórico grego
+### ✅ **4. Peza xornalística sobre un episodio histórico grego**
 - 📌 Obxectivo: Aplicar léxico político e cultural, narrar feitos históricos en clave xornalística.
 - 📝 Formato: Redacción dunha "noticia" sobre un evento como a reforma de Clístenes ou a Revolta Jónica.
 - 🎯 Instrumento: Rúbrica de escritura argumentativa.

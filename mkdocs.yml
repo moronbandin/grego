@@ -26,6 +26,7 @@ nav:
           - Unidade 1:
               - 📜 Introdución: UNIDADES/1AV/1/index.md
               - 📘 Teoría: UNIDADES/1AV/1/teoria/apuntes.md
+              - Textos: UNIDADES/1AV/1/textos/text.md
           - Unidade 2:
               - 📜 Introdución: UNIDADES/1AV/2/index.md
               - 📖 Texto en Markdown: UNIDADES/1AV/2/textos/text.md
@@ -93,3 +94,9 @@ plugins:
 
 extra:
   navigation.indexes: false
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
