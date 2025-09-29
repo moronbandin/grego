@@ -13,3 +13,22 @@
 .unidade-13 { background-color: #914dae; }
 .unidade-14 { background-color: #7ca9bf; }
 .unidade-15 { background-color: #9b874f; }
+
+.vocab-box {
+    position: fixed;
+    top: 80px;         /* distancia desde arriba */
+    right: 20px;       /* pegado á dereita */
+    width: 250px;      /* ancho da caixa */
+    max-height: 80vh;  /* que non pase da pantalla */
+    overflow-y: auto;  /* scroll interno se é longo */
+    padding: 12px 16px;
+    background: #f9fafb;
+    border: 2px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    font-size: 0.9em;
+    z-index: 999;
+  }
+
+  
+  
