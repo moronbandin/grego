@@ -1,102 +1,167 @@
 site_name: Grego
 site_url: https://moronbandin.github.io/grego
+
 theme:
   name: material
   language: gl
+
+  # CORES (modo claro/escuro con conmutador)
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo       # podes mudar: green, blue, deep purple…
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Mudar a modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar a modo claro
+
+  # FONTE (texto e código)
+  font:
+    text: "Inter"          # ou "Roboto", "Source Sans 3", "Noto Sans"…
+    code: "JetBrains Mono" # ou "Fira Code", "Roboto Mono"…
+
+  # LOGO e FAVICON (pon os ficheiros en docs/assets/)
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+
+  # MÁIS FUNCIONALIDADES dispoñibles
   features:
     - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
     - navigation.sections
+    - navigation.indexes
+    - navigation.tracking
     - toc.integrate
-    - search.highlight
     - search.suggest
-  palette:
-    scheme: default  # Puedes cambiar a 'default', 'slate', 'dracula', etc.
-    primary: deep-blue  # Color principal (navbar y botones)
-    accent: deep-blue  # Color de acentos
-  font:
-    text: Roboto  # Fuente para el texto
-    code: Fira Code  # Fuente para el código
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+    - header.autohide
+
 plugins:
   - search
+  - tags
+
+# Extensións Markdown
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.highlight
+  - pymdownx.extra
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# CSS/JS extra para personalizar
+extra_css:
+  - styles/extra.css
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css  
+extra_javascript:
+  - js/extra.js
+  - https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js
+  - js/zoom-init.js
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - js/mermaid-init.js
+
+# Info do repo (para botón “Editar esta páxina” e ligazóns a GitHub)
+repo_url: https://github.com/moronbandin/grego
+repo_name: moronbandin/grego
+edit_uri: edit/main/docs/
+
+# Avisos, analíticas, social, etc. (opcional)
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moronbandin
+      name: GitHub
+  # announcement: "ℹ️ Aviso: entrega da práctica o venres."
 
 nav:
   - Inicio: index.md
-  - 📚 Unidades:
-      - Primeiro Trimestre (1AV): 
-          - Unidade 1:
-              - 📜 Introdución: UNIDADES/1AV/1/index.md
-              - 📘 Teoría: UNIDADES/1AV/1/teoria/apuntes.md
-              - Textos: UNIDADES/1AV/1/textos/text.md
-          - Unidade 2:
-              - 📜 Introdución: UNIDADES/1AV/2/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/2/textos/text.md
-              - 📘 Teoría: UNIDADES/1AV/2/teoria/apuntes.md
-          - Unidade 3:
-              - 📜 Introdución: UNIDADES/1AV/3/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/3/textos/text.md
-              - 📘 Teoría: UNIDADES/1AV/3/teoria/apuntes.md
-          - Unidade 4:
-              - 📜 Introdución: UNIDADES/1AV/4/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/4/textos/text.md
-              - 📘 Teoría: UNIDADES/1AV/4/teoria/apuntes.md
-          - Unidade 5:
-              - 📜 Introdución: UNIDADES/1AV/5/index.md
-              - 📖 Texto en Markdown: UNIDADES/1AV/5/textos/text.md
-              - 📘 Teoría: UNIDADES/1AV/5/teoria/apuntes.md
-      - Segundo Trimestre (2AV): 
-          - Unidade 6:
-              - 📜 Introdución: UNIDADES/2AV/6/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/6/textos/text.md
-              - 📘 Teoría: UNIDADES/2AV/6/teoria/apuntes.md
-          - Unidade 7:
-              - 📜 Introdución: UNIDADES/2AV/7/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/7/textos/text.md
-              - 📘 Teoría: UNIDADES/2AV/7/teoria/apuntes.md
-          - Unidade 8:
-              - 📜 Introdución: UNIDADES/2AV/8/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/8/textos/text.md
-              - 📘 Teoría: UNIDADES/2AV/8/teoria/apuntes.md
-          - Unidade 9:
-              - 📜 Introdución: UNIDADES/2AV/9/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/9/textos/text.md
-              - 📘 Teoría: UNIDADES/2AV/9/teoria/apuntes.md
-          - Unidade 10:
-              - 📜 Introdución: UNIDADES/2AV/10/index.md
-              - 📖 Texto en Markdown: UNIDADES/2AV/10/textos/text.md
-              - 📘 Teoría: UNIDADES/2AV/10/teoria/apuntes.md
-      - Terceiro Trimestre (3AV):
-          - Unidade 11:
-              - 📜 Introdución: UNIDADES/3AV/11/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/11/textos/text.md
-              - 📘 Teoría: UNIDADES/3AV/11/teoria/apuntes.md
-          - Unidade 12:
-              - 📜 Introdución: UNIDADES/3AV/12/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/12/textos/text.md
-              - 📘 Teoría: UNIDADES/3AV/12/teoria/apuntes.md
-          - Unidade 13:
-              - 📜 Introdución: UNIDADES/3AV/13/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/13/textos/text.md
-              - 📘 Teoría: UNIDADES/3AV/13/teoria/apuntes.md
-          - Unidade 14:
-              - 📜 Introdución: UNIDADES/3AV/14/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/14/textos/text.md
-              - 📘 Teoría: UNIDADES/3AV/14/teoria/apuntes.md
-          - Unidade 15:
-              - 📜 Introdución: UNIDADES/3AV/15/index.md
-              - 📖 Texto en Markdown: UNIDADES/3AV/15/textos/text.md
-              - 📘 Teoría: UNIDADES/3AV/15/teoria/apuntes.md
-  - 📂 Material Extra: UNIDADES/EXTRA/index.md
-
-
-
-plugins:
-  - search
-
-extra:
-  navigation.indexes: false
-
-extra_css:
-  - assets/stylesheets/extra.css
-
-markdown_extensions:
-  - attr_list
+  - 1AV:
+      - "UD1 · Introdución":
+          - "Portada": UNIDADES/1AV/1/index.md
+          - "Teoría": UNIDADES/1AV/1/teoria/apuntes.md
+          - "Textos": UNIDADES/1AV/1/textos/text.md
+      - "UD2 · Historia de Grecia e Roma":
+          - "Portada": UNIDADES/1AV/2/index.md
+          - "Teoría": UNIDADES/1AV/2/teoria/apuntes.md
+          - "Textos": UNIDADES/1AV/2/textos/text.md
+      - "UD3 · ...":
+          - "Portada": UNIDADES/1AV/3/index.md
+          - "Teoría": UNIDADES/1AV/3/teoria/apuntes.md
+          - "Textos": UNIDADES/1AV/3/textos/text.md
+      - "UD4 · ...":
+          - "Portada": UNIDADES/1AV/4/index.md
+          - "Teoría": UNIDADES/1AV/4/teoria/apuntes.md
+          - "Textos": UNIDADES/1AV/4/textos/text.md
+      - "UD5 · ...":
+          - "Portada": UNIDADES/1AV/5/index.md
+          - "Teoría": UNIDADES/1AV/5/teoria/apuntes.md
+          - "Textos": UNIDADES/1AV/5/textos/text.md
+  - 2AV:
+      - "UD6 · ...":
+          - "Portada": UNIDADES/2AV/6/index.md
+          - "Teoría": UNIDADES/2AV/6/teoria/apuntes.md
+          - "Textos": UNIDADES/2AV/6/textos/text.md
+      - "UD7 · ...":
+          - "Portada": UNIDADES/2AV/7/index.md
+          - "Teoría": UNIDADES/2AV/7/teoria/apuntes.md
+          - "Textos": UNIDADES/2AV/7/textos/text.md
+      - "UD8 · ...":
+          - "Portada": UNIDADES/2AV/8/index.md
+          - "Teoría": UNIDADES/2AV/8/teoria/apuntes.md
+          - "Textos": UNIDADES/2AV/8/textos/text.md
+      - "UD9 · ...":
+          - "Portada": UNIDADES/2AV/9/index.md
+          - "Teoría": UNIDADES/2AV/9/teoria/apuntes.md
+          - "Textos": UNIDADES/2AV/9/textos/text.md
+      - "UD10 · ...":
+          - "Portada": UNIDADES/2AV/10/index.md
+          - "Teoría": UNIDADES/2AV/10/teoria/apuntes.md
+          - "Textos": UNIDADES/2AV/10/textos/text.md
+  - 3AV:
+      - "UD11 · ...":
+          - "Portada": UNIDADES/3AV/11/index.md
+          - "Teoría": UNIDADES/3AV/11/teoria/apuntes.md
+          - "Textos": UNIDADES/3AV/11/textos/text.md
+      - "UD12 · ...":
+          - "Portada": UNIDADES/3AV/12/index.md
+          - "Teoría": UNIDADES/3AV/12/teoria/apuntes.md
+          - "Textos": UNIDADES/3AV/12/textos/text.md
+      - "UD13 · ...":
+          - "Portada": UNIDADES/3AV/13/index.md
+          - "Teoría": UNIDADES/3AV/13/teoria/apuntes.md
+          - "Textos": UNIDADES/3AV/13/textos/text.md
+      - "UD14 · ...":
+          - "Portada": UNIDADES/3AV/14/index.md
+          - "Teoría": UNIDADES/3AV/14/teoria/apuntes.md
+          - "Textos": UNIDADES/3AV/14/textos/text.md
+      - "UD15 · ...":
+          - "Portada": UNIDADES/3AV/15/index.md
+          - "Teoría": UNIDADES/3AV/15/teoria/apuntes.md
+          - "Textos": UNIDADES/3AV/15/textos/text.md
+  - "📂 Material Extra": UNIDADES/EXTRA/index.md

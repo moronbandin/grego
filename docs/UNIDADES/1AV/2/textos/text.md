@@ -10,3 +10,35 @@
 
 Ὁ Δικαιόπολις ἐν τῷ ἀγρῷ πονεῖ· τὸν γὰρ ἀγρὸν σκάπτει. Μακρός ἐστιν ὁ πόνος καὶ χαλεπός· τοὺς γὰρ λίθους ἐκ τοῦ ἀγροῦ φέρει. Μέγαν λίθον αἴρει καὶ φέρει πρὸς τὸ ἕρμα. Ἰσχυρός ἐστιν ὁ ἄνθρωπος ἀλλὰ πολὺν χρόνον πονεῖ καὶ μάλα κάμνει. Φλέγει γὰρ ὁ ἥλιος καὶ κατατρίβει αὐτόν. Καθίζει οὖν ὑπὸ τῷ δένδρῳ καὶ ἡσυχάζει οὐ πολὺν χρόνον. Δι’ ὀλίγου γὰρ ἐπαίρει ἑαυτὸν καὶ πονεῖ. 
 Τέλος δὲ καταδύνει ὁ ἥλιος. Οὐκέτι οὖν πονεῖ ὁ Δικαιόπολις ἀλλὰ πρὸς τὸν οἶκον βαδίζει.
+
+
+Hino Órfico 26: Terra [Gaia]
+Γῆς, θυμίαμα πᾶν σπέρμα πλὴν κυάμων καὶ ἀρωμάτων.
+
+Γαῖα θεά, μῆτερ μακάρων θνητῶν τ' ἀνθρώπων,
+παντρόφε, πανδώτειρα, τελεσφόρε, παντολέτειρα,
+αὐξιθαλής, φερέκαρπε, καλαῖς ὥραισι βρύουσα,
+ἕδρανον ἀθανάτου κόσμου, πολυποίκιλε κούρη,
+ἣ λοχίαις ὠδῖσι κύεις καρπὸν πολυειδῆ, (5)
+ἀιδία, πολύσεπτε, βαθύστερν', ὀλβιόμοιρε,
+ἡδυπνόοις χαίρουσα χλόαις πολυανθέσι δαῖμον,
+ὀμβροχαρής, περὶ ἣν κόσμος πολυδαίδαλος ἄστρων
+εἱλεῖται φύσει ἀενάωι καὶ ῥεύμασι δεινοῖς.
+ἀλλά, μάκαιρα θεά, καρποὺς αὔξοις πολυγηθεῖς (10)
+εὐμενὲς ἦτορ ἔχουσα, † σὺν ὀλβίοισιν † ἐν ὥραις.
+
+Da Terra,  fumigação: qualquer, exceto favas e ervas aromáticas. 
+
+Deusa Terra [Gaia], mãe dos venturosos e dos homens mortais,
+toda nutriz em tudo dadivosa, perfectiva destruidora de tudo,
+vicejante, frutífera e florescente de belas estações,
+sede do cosmo imortal, donzela de muitas cores,
+que nas dores do parto concebes frutos de muitos tipos, (5)
+perpétua, rica e respeitada deusa de amplo seio,
+nume que se agrada com o doce sopro de multiflóreos brotos
+e com as chuvas, em torno de ti o dedáleo cosmo de estrelas
+revolve, com os fluxos da natureza [Phýsis] semprefluente e terrível.
+Eia, venturosa Deusa, prouvera faças crescer deliciosos frutos,  (10)
+com peito benfazejo, na companhia das prósperas estações.
+
+[Tradução: Rafael Brunhara]

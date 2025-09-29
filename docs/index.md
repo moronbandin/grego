@@ -449,3 +449,197 @@ Para optimizar a avaliación, imos traballar cun **conxunto pechado de instrumen
 
 ---
 
+### 🧱 **UD 01 – *A pedra angular***
+
+**Contidos:** Alfabeto, historia da lingua grega, transcrición
+**Texto proposto:** Inscrición votiva arcaica ou a Tábua de Néstor (Pilos)
+**Conexión:** Introduce a escrita como realidade material e cultural, non só académica.
+**Como traballalo:**
+
+* Análise visual da inscrición (foto real ou reprodución).
+* Transcrición á man.
+* Comparación coa escritura fenicia/hebraica.
+  **Razón da inclusión:** Descanoniza desde o primeiro día: o grego é algo que *alguén escribiu nalgún sitio*, non só un corpus de grandes autores.
+
+---
+
+### 🌌 **UD 02 – *Nomear o mundo, ordenar o caos***
+
+**Contidos:** 1ª declinación, εἰμί, coordinación, mitos de creación
+**Texto proposto:** *Himno órfico a Gaia* ou fragmentos do Himno homérico a Hécate
+**Conexión:** Ligazón directa entre gramática e cosmovisión simbólica.
+**Como traballalo:**
+
+* Lectura lenta con glosario visual.
+* Relación de palabras gregas co galego e outras linguas.
+* Reflexión sobre linguaxe e nomeamento.
+  **Razón da inclusión:** Romper con Hesíodo e introducir voces femininas/divinas alternativas.
+
+---
+
+### 🏞️ **UD 03 – *Ubi sunt?***
+
+**Contidos:** 2ª declinación, adxectivos 2-1-2, topónimos
+**Texto proposto:** *Descrición de lugares míticos* de Pausanias ou Heródoto (en adaptación)
+**Conexión:** Léxico de lugar, función descritiva, historia cultural
+**Como traballalo:**
+
+* Creación de mapas culturais ilustrados.
+* Lectura + localización xeográfica.
+  **Razón da inclusión:** Introduce un xeógrafo ou historiador menor e fomenta a visión da paisaxe como construción cultural.
+
+---
+
+### 🕰️ **UD 04 – *Do tempo primeiro***
+
+**Contidos:** 1ª e 2ª declinación, adxectivos 2-2, adverbios, liña do tempo histórica
+**Texto proposto:** Fragmentos de *Epigramas funerarios* ou do *Papiro de Derveni*
+**Conexión:** Reflexión sobre o tempo, a morte, o pasado
+**Como traballalo:**
+
+* Lectura e comentario de epígrafes.
+* Creación de liñas do tempo visuais con citas.
+  **Razón da inclusión:** Traballar o pasado non só como cronoloxía, senón como experiencia emocional.
+
+---
+
+### 🌍 **UD 05 – *Πάντα ῥεῖ: cando o tempo cambia de nome***
+
+**Contidos:** 3ª declinación (ocl.), infinitivo, dativo posesor
+**Texto proposto:** Carta de *Zenón de Citio* (estoicos) ou fragmentos de papiros helenísticos
+**Conexión:** Mestizaxe cultural, grego como lingua da diáspora
+**Como traballalo:**
+
+* Role play: entrevista con Alexandre ou con Dióxenes.
+* Lectura de carta + creación dunha resposta.
+  **Razón da inclusión:** Mostrar que o grego se converteu en lingua franca e en espazo de contacto ideolóxico.
+
+---
+
+### 🏛️ **UD 06 – *A πόλις por dentro***
+
+**Contidos:** Polis, 3ª declinación (líquida e nasal), interrogativos
+**Texto proposto:** *Lei de Gortina* (en adaptación)
+**Conexión:** Cidade real, leis reais, lingua funcional
+**Como traballalo:**
+
+* Análise dunha norma concreta.
+* Comparación con normas actuais.
+  **Razón da inclusión:** Desmitificar Atenas e introducir outras formas de organización grega.
+
+---
+
+### 🎙️ **UD 07 – *Poder dicir***
+
+**Contidos:** Participio presente, dativo, política e discurso
+**Texto proposto:** *Logos de Gorgias* ou *Isócrates* (adaptado)
+**Conexión:** A palabra como poder
+**Como traballalo:**
+
+* Tradución e análise de recursos retóricos.
+* Redacción de discursos propios.
+  **Razón da inclusión:** Mostrar unha sofística non demonizada, como arte da persuasión.
+
+---
+
+### ⚔️ **UD 08 – *O combate e a palabra***
+
+**Contidos:** Participio absoluto, contraccións, xenitivo
+**Texto proposto:** *Fragmentos de tirteos*, ou *escena cerámica* descrita en grego
+**Conexión:** A guerra como discurso ideolóxico
+**Como traballalo:**
+
+* Descrición de cerámica + texto.
+* Reescritura en clave pacifista ou crítica.
+  **Razón da inclusión:** Ligar violencia, arte e mito.
+
+---
+
+### 📅 **UD 09 – *Os corpos e os días***
+
+**Contidos:** 3ª declinación (vogal e ditongo), voz media/pasiva
+**Texto proposto:** Calendario de festividades atenienses + frases de Hipócrates
+**Conexión:** Corpo, tempo, ritual
+**Como traballalo:**
+
+* Creación dun calendario grego ilustrado.
+* Comparación con hábitos actuais.
+  **Razón da inclusión:** Incorporar saúde, corpo, tempo e traballo á reflexión cultural.
+
+---
+
+### 🕯️ **UD 10 – *Mito, rito e comunidade***
+
+**Contidos:** Imperfecto, oracións de relativo
+**Texto proposto:** Versión alternativa dun mito: *As Bacantes* contadas por unha escrava
+**Conexión:** Introducir voces non hegemónicas
+**Como traballalo:**
+
+* Comparación entre versión oficial e subversiva.
+* Reescrita do mito desde outra voz.
+  **Razón da inclusión:** Visibilizar o conflito interno dos mitos.
+
+---
+
+### 🧠 **UD 11 – *A palabra feita mundo***
+
+**Contidos:** Aoristo, infinitivo, coordinación
+**Texto proposto:** Fragmentos de *Anaximandro* ou *Empédocles* (versión escolar)
+**Conexión:** Ciencia + linguaxe simbólica
+**Como traballalo:**
+
+* Pódcast filosófico.
+* Lexicografía científica grega.
+  **Razón da inclusión:** Facer do grego ferramenta para entender o mundo, non só o pasado.
+
+---
+
+### ✒️ **UD 12 – *Verba manent***
+
+**Contidos:** Aoristo radical, pronomes, oracións completivas
+**Texto proposto:** Citas de autores gregos pouco coñecidos (*Epicteto*, *Musonio Rufo*)
+**Conexión:** Sentenzas como filosofía de vida
+**Como traballalo:**
+
+* Liber sententiarum ilustrado.
+* Diario de reflexións persoais.
+  **Razón da inclusión:** Democratizar a sabedoría clásica.
+
+---
+
+### 🎨 **UD 13 – *Formas visíbeis do divino***
+
+**Contidos:** Futuro, graos do adxectivo
+**Texto proposto:** Descrición de *esculturas votivas femininas* ou textos sobre Afrodita
+**Conexión:** Estética, corpo, espiritualidade
+**Como traballalo:**
+
+* Exposición oral sobre obra + análise gramatical.
+* Debate sobre beleza.
+  **Razón da inclusión:** Cuestionar o ideal estético único.
+
+---
+
+### 🎓 **UD 14 – *Saber ser***
+
+**Contidos:** Educación, paideia, argumentación
+**Texto proposto:** Fragmento de *Aspasia* (reconstruído), ou *Diálogo ficticio* entre mestre e discípulo
+**Conexión:** Educación e ética
+**Como traballalo:**
+
+* Carta crítica.
+* Entrevista ficticia.
+  **Razón da inclusión:** Ampliar os modelos de formación e cuestionar a educación actual.
+
+---
+
+### 🌱 **UD 15 – *Sementes do futuro***
+
+**Contidos:** Etimoloxía, neoloxismos, ciencia
+**Texto proposto:** Termos médicos reais en grego (ex. ficha dun medicamento)
+**Conexión:** Pervivencia real e útil da lingua
+**Como traballalo:**
+
+* Análise de neoloxismos.
+* Creación de termos ficticios.
+  **Razón da inclusión:** Mostrar que o grego *non morreu*, está por todas partes.
