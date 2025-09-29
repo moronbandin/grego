@@ -18,7 +18,7 @@
     position: fixed;
     top: 80px;         /* distancia desde arriba */
     right: 20px;       /* pegado á dereita */
-    width: 250px;      /* ancho da caixa */
+    width: 500px;      /* ancho da caixa */
     max-height: 80vh;  /* que non pase da pantalla */
     overflow-y: auto;  /* scroll interno se é longo */
     padding: 12px 16px;
