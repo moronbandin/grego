@@ -265,7 +265,7 @@ Para rematar, observa como se combina artigo + substantivo nos casos e números 
 
 <div class="vocab-box">
   <details open>
-    <summary>📚 <strong>Vocabulario</strong></summary>
+    <summary><strong>Vocabulario</strong></summary>
     <div>
       <h4>Substantivos</h4>
       <ul>
