@@ -81,29 +81,68 @@ O modo indica como se produce o son.
 
 ---
 
-## IV. Aplicación ao grego antigo
+## IV. Aplicación práctica: asimilación, disimilación e outros procesos
 
 ### 1. Asimilación
 
-Cando dous sons están próximos, poden facerse máis parecidos. Se aparece nasal + oclusiva, a nasal adopta o **punto** da oclusiva seguinte.
+A asimilación prodúcese cando un son adopta algún trazo dun son próximo (punto, modo, sonoridade, nasalidade, etc.). É un proceso moi común en todas as linguas.
+
+O caso máis ilustrativo e frecuente é o da **nasal + oclusiva**: a nasal adopta o **punto de articulación** da consonante seguinte.
 
 - γγ, γκ, γξ, γχ → [ŋ] velar  
-- ἐμ-βαίνω → [embaino]  
-- ἐν-τείνω → [enteino]  
+- ἐμ-βαίνω → [embaino] (antes de bilabial → m)  
+- ἐν-τείνω → [enteino] (antes de dental → n)  
 
-Este proceso afecta ao punto de articulación.
+Tamén ocorre en latín e nas linguas romances:
+
+- in- + p/b/m → im-: *impendeō*, *imbibō*, *immēnsus*  
+- in- + l/r → il-, ir-: *illūdō*, *irrētiō*  
+- in- + k/g → [iŋ-] na pronuncia, aínda que non se escribe  
+
+Neste tipo de casos o que cambia é o **punto** da nasal para facilitar a articulación.
+
+---
 
 ### 2. Disimilación
 
-Dous sons semellantes afastan o seu punto ou modo para evitar confusión.
+A disimilación é o proceso contrario: dous sons similares tenden a afastarse para evitar repeticións demasiado próximas. É menos frecuente ca a asimilación e adoita ser irregular ou léxica.
 
-Exemplo:  
-ἀνήρ → ἀνδρός, onde aparece /d/ para evitar dúas nasais contiguas ou demasiado próximas no punto de articulación.
+Exemplos ilustrativos:
+
+**Grego**  
+- ἀνήρ → ἀνδρός (a aparición de /d/ evita a repetición de dúas nasais contiguas)
+
+**Latín e romances**  
+- *medio-diēs* → *merīdiēs*  
+- *venēnum* → italiano *veleno*  
+- *hóminem* → cast. ant. *omne* → *omre* → *hombre*  
+- *nóminem* → *nomre* → *nombre*  
+- *consuetūdinem* → *costumbre*
+
+Un caso formulable como lei fonética é a **Lei de Grassmann** (actualización de aspiradas en grego e sánscrito):
+
+- *thi-thē-mi* → *ti-thē-mi*  
+- *phakhu-* → *pakhu-*  
+- *hekhō* → *ekhō*
+
+Neste tipo de exemplos o que se evita é a presenza de dous sons demasiado parecidos nun mesmo dominio fónico.
+
+---
 
 ### 3. Sonorización e aspiración
 
-Procesos que afectan ao modo (e ás veces ao punto):
+Son procesos que afectan principalmente ao **modo de articulación**, xa que implican cambios na vibración da glote ou no grao de apertura da constrición.
+
+En grego (e en parte no paso do indoeuropeo ao grego):
 
 - π → β  
 - τ → δ  
 - κ → γ  
+
+En latín e romances atópanse fenómenos paralelos de sonorización intervocálica:
+
+- *lupum* → *lobo*  
+- *rotam* → *rueda*  
+- *lactem* → *leche*  
+
+A nasalización anticipatoria ou a lenición (debilitamento) das oclusivas son tamén formas de modificación do modo de articulación condicionadas polo contexto.
