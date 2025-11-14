@@ -107,19 +107,14 @@ Neste tipo de casos o que cambia é o **punto** da nasal para facilitar a articu
 
 A disimilación é o proceso contrario: dous sons similares tenden a afastarse para evitar repeticións demasiado próximas. É menos frecuente ca a asimilación e adoita ser irregular ou léxica.
 
-Exemplos ilustrativos:
-
-**Grego**  
-- ἀνήρ → ἀνδρός (a aparición de /d/ evita a repetición de dúas nasais contiguas)
-
 **Latín e romances**  
 - *medio-diēs* → *merīdiēs*  
 - *venēnum* → italiano *veleno*  
-- *hóminem* → cast. ant. *omne* → *omre* → *hombre*  
-- *nóminem* → *nomre* → *nombre*  
+- *hóminem* → cast. ant. *omne* → *omre* → *hombre*  (epéntese como en ἀνήρ → ἀνδρός)
+- *nóminem* → *nomre* → *nombre*  (epéntese)
 - *consuetūdinem* → *costumbre*
 
-Un caso formulable como lei fonética é a **Lei de Grassmann** (actualización de aspiradas en grego e sánscrito):
+Un caso formulable como lei fonética é a **Lei de Grassmann** (disimilación de aspiradas en grego e sánscrito):
 
 - *thi-thē-mi* → *ti-thē-mi*  
 - *phakhu-* → *pakhu-*  
@@ -142,7 +137,7 @@ En grego (e en parte no paso do indoeuropeo ao grego):
 En latín e romances atópanse fenómenos paralelos de sonorización intervocálica:
 
 - *lupum* → *lobo*  
-- *rotam* → *rueda*  
-- *lactem* → *leche*  
+- *rotam* → *roda*  
+- *delicatus* → *delgado*  
 
 A nasalización anticipatoria ou a lenición (debilitamento) das oclusivas son tamén formas de modificación do modo de articulación condicionadas polo contexto.
