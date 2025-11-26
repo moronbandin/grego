@@ -1,0 +1,47 @@
+/* ======== CONFIGURACIÓN XERAL ======== */
+
+@page {
+    size: A4;
+    margin: 20mm;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    line-height: 1.3;
+    color: #000;
+}
+
+h1 {
+    font-size: 20pt;
+    margin-bottom: 10pt;
+    text-align: center;
+}
+
+.intro {
+    font-size: 11pt;
+    margin-bottom: 12pt;
+}
+
+/* ======== DÚAS COLUMNAS ======== */
+
+.columns {
+    column-count: 2;
+    column-gap: 25pt;
+}
+
+/* ======== VOCES LÉXICAS ======== */
+
+.entry {
+    break-inside: avoid;
+    margin-bottom: 4pt;
+}
+
+.entry .gr {
+    font-weight: bold;
+    font-family: "Palatino Linotype","Times New Roman","GFS Didot",serif;
+}
+
+.entry .gl {
+    margin-left: 4pt;
+}

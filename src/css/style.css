@@ -1,0 +1,462 @@
+:root {
+  --gray-100: #f2f2f2;
+  --gray-200: #e5e5e5;
+  --gray-300: #d9d9d9;
+  --gray-700: #555;
+  --gray-800: #333;
+}
+
+
+/* =========================================================
+   0. RESET
+========================================================= */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Work Sans", Arial, sans-serif;
+  background: #ffffff;
+  color: #111;
+  line-height: 1.6;
+}
+
+/* Layout interno con sidebar fixa + contido con scroll */
+body.with-sidebar {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   1. SIDEBAR — FIXA E SCROLLEABLE
+========================================================= */
+
+.sidebar {
+  width: 230px;
+  flex-shrink: 0;
+  background: #fdfdfd;
+  border-right: 1px solid #eee;
+
+  position: sticky;
+  top: 0;
+  height: 100vh;
+
+  overflow-y: auto;
+  padding: 2rem 1.5rem;
+}
+
+.sidebar-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+
+.sidebar-section {
+  margin-top: 1.8rem;
+  margin-bottom: .5rem;
+  font-size: .85rem;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: #aaa;
+}
+
+.sidebar-nav a {
+  display: block;
+  padding: .28rem 0;
+  color: #444;
+  text-decoration: none;
+  font-size: .95rem;
+  transition: color .2s ease;
+}
+
+.sidebar-nav a:hover {
+  color: #b00;
+}
+
+.sidebar-nav a.active {
+  font-weight: 600;
+  color: #b00;
+}
+
+
+/* =========================================================
+   2. CONTIDO
+========================================================= */
+
+.content-wrapper {
+  flex: 1;
+  height: 100vh;
+  overflow-y: auto;
+  padding: 3rem 3.5rem;
+  padding-left: 4.2rem;
+}
+
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.content h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.content h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+}
+
+.content h3 {
+  margin-top: 2rem;
+  margin-bottom: .8rem;
+  font-size: 1.2rem;
+}
+
+.content p {
+  margin-bottom: 1rem;
+}
+
+.content img {
+  max-width: 100%;
+  margin: 1.2rem 0;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+ul, ol {
+  margin: 1rem 0 1.5rem 1.4rem;
+  line-height: 1.65;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid #eee;
+  margin: 2.3rem 0;
+}
+
+
+/* =========================================================
+   3. LANDING PAGE
+========================================================= */
+
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-top: 2rem;
+}
+
+.header h1 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.grid {
+  max-width: 1800px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.4rem;
+  padding-bottom: 3rem;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 1.3rem 1.4rem;
+  border-radius: 12px;
+  transition: all .2s ease;
+  min-height: 140px;
+}
+
+.card:hover {
+  border-color: #b00;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  transform: translateY(-3px);
+}
+
+.card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+}
+
+.card a {
+  display: block;
+  color: #444;
+  font-size: .95rem;
+  margin: 0.2rem 0;
+  text-decoration: none;
+}
+
+.card a:hover {
+  color: #b00;
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   4. TÁBOAS
+========================================================= */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: .97rem;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+th, td {
+  border: 1px solid #eaeaea;
+  padding: .6rem .75rem;
+  vertical-align: middle;
+}
+
+th {
+  background: #f7f7f7;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: .83rem;
+  letter-spacing: .04em;
+}
+
+tr:nth-child(even) td {
+  background: #fcfcfc;
+}
+
+table.paradigma td {
+  text-align: center;
+}
+
+td span[lang="el"],
+td span[lang="EL"] {
+  font-family: "Palatino Linotype","GFS Didot",serif;
+  font-size: 1.05rem;
+}
+
+/* CORES MORFOLÓXICAS */
+
+.decl-1 th, .decl-1 td {
+  background-color: rgba(158, 236, 255, 0.25);
+}
+.decl-1 tr:nth-child(even) td {
+  background-color: rgba(158, 236, 255, 0.18);
+}
+
+.decl-2 th, .decl-2 td {
+  background-color: rgba(255, 174, 158, 0.25);
+}
+.decl-2 tr:nth-child(even) td {
+  background-color: rgba(255, 174, 158, 0.18);
+}
+
+.decl-3 th, .decl-3 td {
+  background-color: rgba(255, 217, 181, 0.25);
+}
+.decl-3 tr:nth-child(even) td {
+  background-color: rgba(255, 217, 181, 0.18);
+}
+
+table.paradigma .grupo td {
+  background: #f2f2f2;
+  height: .7rem;
+  border: none;
+}
+
+
+/* =========================================================
+   5. PAU GRID
+========================================================= */
+
+.pau-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.8em;
+  margin-top: 1.5em;
+}
+
+.pau-grid a {
+  display: block;
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 0.7em;
+  text-align: center;
+  color: #b00;
+  font-weight: 500;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.pau-grid a:hover {
+  background: #f9f9f9;
+  border-color: #b00;
+}
+
+
+/* =========================================================
+   6. VOCABULARIO — BLOQUES POR LETRA
+========================================================= */
+
+.letter-block {
+  margin-bottom: 2.5rem;
+}
+
+.letter-block h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.2rem;
+}
+
+ul.vocab {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.vocab li {
+  padding: 0.25rem 0;
+  border-bottom: 1px solid #ececec;
+}
+
+.gr {
+  font-family: "New Athena Unicode", serif;
+  font-weight: 600;
+}
+
+.gl {
+  color: #666;
+}
+
+
+/* =========================================================
+   7. ÍNDICE ALFABÉTICO
+========================================================= */
+
+.alphabet-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.alphabet-index a {
+  padding: .3rem .5rem;
+  font-weight: 600;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #444;
+  border: 1px solid #ddd;
+  transition: background .2s ease, color .2s ease;
+}
+
+.alphabet-index a:hover {
+  background: #eee;
+}
+
+/* Letra activa durante scroll */
+.alphabet-index a.active-letter {
+  background: #b00;
+  color: white;
+  border-color: #b00;
+}
+
+
+/* =========================================================
+   8. BOTÓN VOLVER ARRIBA
+========================================================= */
+
+#toTop {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  padding: 0.55rem 0.75rem;
+  background: #b00;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: .9rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .25s ease, transform .25s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+}
+
+#toTop.show {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+
+/* =========================================================
+   9. RESPONSIVE
+========================================================= */
+
+@media (max-width: 800px) {
+
+  body.with-sidebar {
+    flex-direction: column;
+    overflow: auto;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-right: none;
+    border-bottom: 1px solid #eee;
+    padding: 1.5rem;
+  }
+
+  .content-wrapper {
+    height: auto;
+    overflow-y: visible;
+    padding: 2rem 1rem;
+  }
+
+  .grid {
+    padding: 0 1rem;
+  }
+}
+
+#toTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #222;
+  color: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+#toTop.show {
+  display: flex;
+}
