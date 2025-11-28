@@ -72,7 +72,7 @@ def build_sidebar():
                 # Ler título HUMANO dende meta
                 title = extract_title(filepath)
 
-                html += f"<a href='/{rel}'>{title}</a>\n"
+                html += f"<a href='{{ root }}{rel}'>{title}</a>\n"
 
     html += "</nav>"
     return html
