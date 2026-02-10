@@ -13,11 +13,15 @@ nav:
   - Inicio: index.md
   - Fonética:
       - fonetica/index.md
+      - Fenómenos fonéticos: fonetica/fenomenos_foneticos.md
       - Alfabeto: fonetica/alfabeto.md
       - Acentuación: fonetica/acentuacion.md
       - Fenómenos fonéticos: fonetica/fenomenos_foneticos.md
       - Transliteración: fonetica/transliteracion.md
   - Léxico:
       - lexico/index.md
-  - Morfoloxía nominal:
-      - morfoloxia_nominal/index.md
+  - Morfoloxía:
+      - morfoloxia/index.md
+  - PAU:
+      - Exames PAU: pau/index.md
+
