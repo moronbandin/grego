@@ -1,0 +1,23 @@
+site_name: Suplemento de Grego
+site_url: https://moronbandin.github.io/grego/
+
+theme:
+  name: material
+  language: gl
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+
+nav:
+  - Inicio: index.md
+  - Fonética:
+      - fonetica/index.md
+      - Alfabeto: fonetica/alfabeto.md
+      - Acentuación: fonetica/acentuacion.md
+      - Fenómenos fonéticos: fonetica/fenomenos_foneticos.md
+      - Transliteración: fonetica/transliteracion.md
+  - Léxico:
+      - lexico/index.md
+  - Morfoloxía nominal:
+      - morfoloxia_nominal/index.md
