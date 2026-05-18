@@ -1,52 +1,11 @@
-# Fonética do grego antigo
+# Fonética
 
----
+Sistema gráfico e fonético do grego antigo, organizado para consulta rápida.
 
-## I. O sistema ortográfico do grego antigo
-
-### A. O alfabeto
-
-### B. Os ditongos
-
-#### a) Breves  
-#### b) Longos  
-
-### C. O espírito e os acentos
-
-### D. Signos de puntuación
-
----
-
-## II. A acentuación grega
-
-### A. Clases de acento
-
-#### a) Agudo  
-#### b) Grave  
-#### c) Circunflexo  
-
-### B. Lugar do acento
-
-#### a) Regra 1  
-#### b) Regra 2  
-#### c) Regra 3  
-
-### C. As palabras clíticas
-
----
-
-## III. Fonética sintáctica
-
-### A. Elisión
-
-### B. Crase
-
----
-
-## IV. Fonética evolutiva
-
-### A. Principios fonéticos referidos ao encontro de consonantes
-
-### B. Contraccións vocálicas
-
-### C. Preverbios
+- [Alfabeto](alfabeto.md)
+- [Diptongos](diptongos.md)
+- [Espíritos e acentos](espiritos_acentos.md)
+- [Signos de puntuación](puntuacion.md)
+- [Acentuación](acentuacion.md)
+- [Fonética sintáctica](fonetica_sintactica.md)
+- [Fonética evolutiva](fonetica_evolutiva.md)

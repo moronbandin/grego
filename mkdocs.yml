@@ -8,20 +8,89 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
 
 nav:
   - Inicio: index.md
   - Fonética:
       - fonetica/index.md
-      - Fenómenos fonéticos: fonetica/fenomenos_foneticos.md
       - Alfabeto: fonetica/alfabeto.md
+      - Diptongos: fonetica/diptongos.md
+      - Espíritos e acentos: fonetica/espiritos_acentos.md
+      - Signos de puntuación: fonetica/puntuacion.md
       - Acentuación: fonetica/acentuacion.md
-      - Fenómenos fonéticos: fonetica/fenomenos_foneticos.md
-      - Transliteración: fonetica/transliteracion.md
+      - Fonética sintáctica: fonetica/fonetica_sintactica.md
+      - Fonética evolutiva: fonetica/fonetica_evolutiva.md
+  - Morfoloxía nominal:
+      - morfoloxia_nominal/index.md
+      - Substantivos: morfoloxia_nominal/substantivos.md
+      - Adxectivos: morfoloxia_nominal/adxectivos.md
+      - Participios: morfoloxia_nominal/participios.md
+      - Pronomes e numerais: morfoloxia_nominal/pronomes_numerais.md
+      - Adverbios: morfoloxia_nominal/adverbios.md
+  - Morfoloxía verbal:
+      - morfoloxia_verbal/index.md
+      - Estrutura do verbo: morfoloxia_verbal/estrutura_verbo.md
+      - Paradigmas: morfoloxia_verbal/paradigmas.md
+  - Sintaxe:
+      - sintaxe/index.md
+      - Substantivo: sintaxe/substantivo.md
+      - Adxectivo: sintaxe/adxectivo.md
+      - Infinitivo: sintaxe/infinitivo.md
+      - Participio: sintaxe/participio.md
+      - Completivas: sintaxe/completivas.md
+      - Relativas: sintaxe/relativas.md
+      - Adverbiais: sintaxe/adverbiais.md
+  - Leccións:
+      - leccions/index.md
+      - Lección 1: leccions/01.md
+      - Lección 2: leccions/02.md
+      - Lección 3: leccions/03.md
+      - Lección 4: leccions/04.md
+      - Lección 5: leccions/05.md
+      - Lección 6: leccions/06.md
+      - Lección 7: leccions/07.md
+      - Lección 8: leccions/08.md
+      - Lección 9: leccions/09.md
+      - Lección 10: leccions/10.md
+      - Lección 11: leccions/11.md
+      - Lección 12: leccions/12.md
+      - Lección 13: leccions/13.md
+      - Lección 14: leccions/14.md
+      - Lección 15: leccions/15.md
+      - Lección 16: leccions/16.md
+      - Lección 17: leccions/17.md
+      - Lección 18: leccions/18.md
+      - Lección 19: leccions/19.md
+      - Lección 20: leccions/20.md
+      - Lección 21: leccions/21.md
+      - Lección 22: leccions/22.md
+      - Lección 23: leccions/23.md
+      - Lección 24: leccions/24.md
+      - Lección 25: leccions/25.md
   - Léxico:
       - lexico/index.md
-  - Morfoloxía:
-      - morfoloxia/index.md
+      - Semántica gramatical: lexico/semantica_gramatical.md
+      - Categorías verbais: lexico/categorias_verbais.md
+      - Etimoloxía: lexico/etimoloxia.md
+  - Textos e contextos:
+      - textos/index.md
   - PAU:
       - Exames PAU: pau/index.md
-
